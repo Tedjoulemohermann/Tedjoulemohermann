@@ -1,8 +1,8 @@
-Position : Data analyst  
-my Goal : As Data Analyst my role is to analyze data and transform it into highly valuable metrics for a company. I’m responsible for both data collection and data processing as well as guaranteeing data integrity. I’ve developed communication and reporting skills to support decision-making processes.
+<b>Position</b> : Data analyst  
+<b>My role</b> : As Data Analyst my role is to analyze data and transform it into highly valuable metrics for a company. I’m responsible for both data collection and data processing as well as guaranteeing data integrity. I’ve developed communication and reporting skills to support decision-making processes.
 # A-Portfolio de mes projets pour ma Formation en data analyst 
 
-## I-Portfolio de mes projets réalisé avec le langage de programmation python pour ma formation en data analyst:   
+## I-Mes projets réalisé avec le langage de programmation python :   
 ### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet1_analytics_Hermann.ipynb">Projet 1 : Etude de santé publique avec python. </a> 
 <b>Compétences</b> : Data structure, numpy, pandas, data cleaning.     
 
@@ -21,8 +21,8 @@ my Goal : As Data Analyst my role is to analyze data and transform it into highl
 Consulter le code via ce lien
 
 
-## II-Portfolio de mes projets  SQL pour ma formation en data analyst:
+## II-Portfolio de mes projets  SQL :
 
-## III-Portfolio de mes projets Power bi pour ma formation en data analyst:
+## III-Portfolio de mes projets Power bi :
 
 # B- Formation Data scientist
