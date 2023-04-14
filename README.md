@@ -10,6 +10,7 @@ Compétences : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn
 Compétences : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn, les tests statistiques et sklearn (Clustering, ACP).  
 ### Projet 5 : Détection de faux billets avec python  
 Compétences : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn et sklearn   
+https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet5_analytics_Hermann.ipynb
 (Clustering, ACP, validation croisée, algorithme de classification et regression linéaire).  
 ## II-Portfolio de mes projets  SQL pour ma formation en data analyst:
 ## III-Portfolio de mes projets Power bi pour ma formation en data analyst:
