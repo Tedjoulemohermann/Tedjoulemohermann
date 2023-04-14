@@ -1,8 +1,7 @@
 # A-Formation data analyst 
 
 ## I-Portfolio de mes projets réalisé avec le langage de programmation python pour ma formation en data analyst:   
-### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet1_analytics_Hermann.ipynb"
->Projet 1 : Etude de santé publique avec python </a> 
+### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet1_analytics_Hermann.ipynb">Projet 1 : Etude de santé publique avec python </a> 
 <b>Compétences</b> : Data structure, numpy, pandas, data cleaning.     
 Consulter le code via ce lien
 https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet1_analytics_Hermann.ipynb
