@@ -1,4 +1,4 @@
-Hello !! 👋  
+# Hello !! 👋  
 <b>Position</b> : Data analyst  
 <b>My role</b> : As Data Analyst my role is to analyze data and transform it into highly valuable metrics for a company. I’m responsible for both data collection and data processing as well as guaranteeing data integrity. I’ve developed communication and reporting skills to support decision-making processes.
 # A-Portfolio de mes projets pour ma Formation en data analyst 
