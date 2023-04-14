@@ -1,4 +1,4 @@
-# Formation data analyst 
+# A-Formation data analyst 
 ## I-Portfolio de mes projets réalisé avec le langage de programmation python pour ma formation en data analyst:   
 ### Projet 1 : Etude de santé publique avec python  
 Compétences : Data structure, numpy, pandas, data cleaning.  
@@ -13,4 +13,4 @@ Compétences : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn
 (Clustering, ACP, validation croisée, algorithme de classification et regression linéaire).  
 ## II-Portfolio de mes projets réalisé SQL pour ma formation en data analyst:
 ## III-Portfolio de mes projets Power bi pour ma formation en data analyst:
-# Formation Data scientist
+# B- Formation Data scientist
