@@ -11,6 +11,6 @@ Compétences : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn
 ### Projet 5 : Détection de faux billets avec python  
 Compétences : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn et sklearn   
 (Clustering, ACP, validation croisée, algorithme de classification et regression linéaire).  
-## II-Portfolio de mes projets réalisé SQL pour ma formation en data analyst:
+## II-Portfolio de mes projets  SQL pour ma formation en data analyst:
 ## III-Portfolio de mes projets Power bi pour ma formation en data analyst:
 # B- Formation Data scientist
