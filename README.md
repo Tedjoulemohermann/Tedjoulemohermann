@@ -10,6 +10,9 @@
 <b>Situation</b>:
 You are integrated into a new team of researchers from the Food and Agriculture Organization of the United Nations (FAO), one of the bodies that make up the  and whose objective is "to help build a world free from hunger ". Your team is in charge of carrying out a large-scale study on the theme of undernutrition in the world. The problem of hunger is complex and can have multiple causes, which differ from country to country. The preliminary stage of this study will therefore be to establish a "state of the art" of the research already published, but also to carry out a statistical study intended to direct research towards particular countries, and to highlight various causes of hunger. Thus, a handful of data analysts (including you!) have been selected to lead this preliminary step. During the first meeting, you were appointed to set up the data that your team can use as desired to carry out this statistical study.  
 
+<img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture1.PNG">
+
+
 <b>SKILLS</b> : Data structure, numpy, pandas, data cleaning.     
 
 ### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet2_analytics_Hermann.ipynb">Project 2 : Optimization of an e-commerce site with python.</a> 
