@@ -20,12 +20,10 @@ You are integrated into a new team of researchers from the Food and Agriculture 
 <b>Situation</b>:
 A company that sells wines online use an erp that is not linked to their online site and under these conditions sales management is really complex. As a data analysis  your mission is to join an export of the ERP containing the references of the products and their selling prices with an export of the online database, analyze the sales of this online store, and manage outliers.
 
-
-
+<img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture5.PNG">
 <b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn, outliers management.        
 
 ### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet3_analytics_Hermann.ipynb">Project 3 : Sales analysis of an online bookstore with python. </a>   
-
 
 <b>Situation</b>:
 You are a Data Analyst for a large bookstore chain, freshly hired for a week. The IT department has given you access to the sales database. It's up to you to familiarize yourself with the data and analyze it. Your manager wants you to make a presentation to "get your feet wet". Your company, "Rester livres" first developed in a large city in France, with several stores, until you decided to open an online store.
