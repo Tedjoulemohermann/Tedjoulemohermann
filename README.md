@@ -18,7 +18,7 @@
 
 ### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet5_analytics_Hermann.ipynb">Project 5 : Counterfeit banknotes detection using python.</a>   
 <b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn et sklearn   
-(Clustering, ACP, cross validation, classification algorithm and linear regression).
+(Clustering, Principal Component Analysis (PCA), cross validation, classification algorithm and linear regression).
 
 
 ## II-Portfolio of my SQL projects :
