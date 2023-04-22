@@ -15,7 +15,7 @@ You are integrated into a new team of researchers from the Food and Agriculture 
 ### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet2_analytics_Hermann.ipynb">Project 2 : Optimization of an e-commerce site with python.</a> 
 
 <b>Situation</b>:
-Your IT consulting company offers you a new mission.The company use an erp that is not linked to their online site and under these conditions sales management is really complex. your mission is to join an export of the ERP containing the references of the products and their selling prices with an export of the online database, analyze the sales of this online store, and manage outliers.
+A company use an erp that is not linked to their online site and under these conditions sales management is really complex. As a data analysis  your mission is to join an export of the ERP containing the references of the products and their selling prices with an export of the online database, analyze the sales of this online store, and manage outliers.
 
 
 <b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn, outliers management.        
