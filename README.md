@@ -16,7 +16,7 @@
 ### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet4_analytics_Hermann.ipynb">Project 4 : Produce market research with Python.</a>      
 <b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn, les tests statistiques et sklearn (Clustering, ACP).    
 
-### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet5_analytics_Hermann.ipynb">Project 5 : Counterfeit banknotes detection with python.</a>   
+### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet5_analytics_Hermann.ipynb">Project 5 : Counterfeit banknotes detection using python.</a>   
 <b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn et sklearn   
 (Clustering, ACP, validation croisée, algorithme de classification et regression linéaire).      
 Consulter le code via ce lien
