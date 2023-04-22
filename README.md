@@ -8,17 +8,17 @@
 <b>SKILLS</b> : Data structure, numpy, pandas, data cleaning.     
 
 ### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet2_analytics_Hermann.ipynb">Project 2 : Optimization of an e-commerce site with python.</a> 
-<b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn, gestion des outliers.        
+<b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn, outliers management.        
 
 ### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet3_analytics_Hermann.ipynb">Project 3 : Sales analysis of an online bookstore with python. </a>   
-<b>SKILLS</b> : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn, time series et les tests statistiques.      
+<b>SKILLS</b> : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn, time series and statistics (hypothesis testing).      
 
 ### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet4_analytics_Hermann.ipynb">Project 4 : Produce market research with Python.</a>      
-<b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn, les tests statistiques et sklearn (Clustering, ACP).    
+<b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn, les tests statistiques and sklearn (Clustering, ACP).    
 
 ### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet5_analytics_Hermann.ipynb">Project 5 : Counterfeit banknotes detection using python.</a>   
 <b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn et sklearn   
-(Clustering, ACP, validation croisée, algorithme de classification et regression linéaire).
+(Clustering, ACP, cross validation, classification algorithm and linear regression).
 
 
 ## II-Portfolio of my SQL projects :
