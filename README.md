@@ -21,6 +21,7 @@ You are integrated into a new team of researchers from the Food and Agriculture 
 A company use an erp that is not linked to their online site and under these conditions sales management is really complex. As a data analysis  your mission is to join an export of the ERP containing the references of the products and their selling prices with an export of the online database, analyze the sales of this online store, and manage outliers.
 
 
+
 <b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn, outliers management.        
 
 ### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet3_analytics_Hermann.ipynb">Project 3 : Sales analysis of an online bookstore with python. </a>   
@@ -29,12 +30,15 @@ A company use an erp that is not linked to their online site and under these con
 <b>Situation</b>:
 You are a Data Analyst for a large bookstore chain, freshly hired for a week. The IT department has given you access to the sales database. It's up to you to familiarize yourself with the data and analyze it. Your manager wants you to make a presentation to "get your feet wet". Your company, "Rester livres" first developed in a large city in France, with several stores, until you decided to open an online store.
 
+<img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture2.PNG">
 <b>SKILLS</b> : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn, time series and statistics (hypothesis testing).      
 
 ### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet4_analytics_Hermann.ipynb">Project 4 : Produce market research with Python.</a>   
 
 <b>Situation</b>: 
 Your agri-food business wants to expand internationally. She specializes in chicken. International, yes, but for the moment, the field of possibilities is very wide: no particular country or continent has been chosen for the moment. All countries are possible! Your objective will be to help target certain countries in particular, with the aim of deepening the market study afterwards. More particularly, the ideal would be to produce "groups" of countries, more or less large, whose characteristics we know. Initially, the strategy is rather to export the products rather than to produce locally, that is to say in the new target country(ies).
+
+<img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture3.PNG">
 
 <b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn, les tests statistiques and sklearn (Clustering, ACP).    
 
@@ -43,6 +47,7 @@ Your agri-food business wants to expand internationally. She specializes in chic
 <b>Situation</b>:
 Your IT consulting company offers you a new mission at the Ministry of the Interior, in the context of the fight against organized crime, at the central office for the repression of counterfeiting. Your mission: to create a counterfeit detection algorithm.
 
+<img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture4.PNG">
 <b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn et sklearn   
 (Clustering, Principal Component Analysis (PCA), cross validation, classification algorithm and linear regression).
 
