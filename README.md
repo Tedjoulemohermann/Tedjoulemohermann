@@ -8,7 +8,7 @@
 ### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet1_analytics_Hermann.ipynb">Project 1 : Public health study with python. </a> 
 
 <b>Situation</b>:
-You are integrated into a new team of researchers from the Food and Agriculture Organization of the United Nations (FAO), one of the bodies that make up the  and whose objective is "to help build a world free from hunger ". Your team is in charge of carrying out a large-scale study on the theme of undernutrition in the world. The problem of hunger is complex and can have multiple causes, which differ from country to country. The preliminary stage of this study will therefore be to establish a "state of the art" of the research already published, but also to carry out a statistical study intended to direct research towards particular countries, and to highlight various causes of hunger. Thus, a handful of data analysts (including you!) have been selected to lead this preliminary step. During the first meeting, you were appointed to set up the data that your team can use as desired to carry out this statistical study.  
+You are integrated into a new team of researchers from the Food and Agriculture Organization of the United Nations (FAO), one of the United Nations bodies   whose objective is "to help build a world free from hunger ". Your team is in charge of carrying out a large-scale study on the theme of undernutrition in the world. The problem of hunger is complex and can have multiple causes, which differ from country to country. The preliminary stage of this study will therefore be to establish a "state of the art" of the research already published, but also to carry out a statistical study intended to direct research towards particular countries, and to highlight various causes of hunger. Thus, a handful of data analysts (including you!) have been selected to lead this preliminary step.
 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture1.PNG">
 
@@ -26,7 +26,7 @@ A company that sells wines online use an erp that is not linked to their online 
 ### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet3_analytics_Hermann.ipynb">Project 3 : Sales analysis of an online bookstore with python. </a>   
 
 <b>Situation</b>:
-You are a Data Analyst for a large bookstore chain, freshly hired for a week. The IT department has given you access to the sales database. It's up to you to familiarize yourself with the data and analyze it. Your manager wants you to make a presentation to "get your feet wet". Your company, "Rester livres" first developed in a large city in France, with several stores, until you decided to open an online store.
+You are a Data Analyst for a large bookstore chain, freshly hired for a week. The IT department has given you access to the sales database. It's up to you to familiarize yourself with the data and analyze it. Your manager wants you to make a presentation. Your company, "Rester livres" first developed in a large city in France, with several stores, until you decided to open an online store.
 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture2.PNG">
 <b>SKILLS</b> : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn, time series and statistics (hypothesis testing).      
@@ -34,7 +34,7 @@ You are a Data Analyst for a large bookstore chain, freshly hired for a week. Th
 ### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet4_analytics_Hermann.ipynb">Project 4 : Produce market research with Python.</a>   
 
 <b>Situation</b>: 
-Your agri-food business wants to expand internationally. She specializes in chicken. International, yes, but for the moment, the field of possibilities is very wide: no particular country or continent has been chosen for the moment. All countries are possible! Your objective will be to help target certain countries in particular, with the aim of deepening the market study afterwards. More particularly, the ideal would be to produce "groups" of countries, more or less large, whose characteristics we know. Initially, the strategy is rather to export the products rather than to produce locally, that is to say in the new target country(ies).
+Your agri-food business wants to expand internationally. She specializes in chicken. But for the moment, the field of possibilities is very wide: no particular country or continent has been chosen for the moment. All countries are possible! Your objective will be to help target certain countries in particular, with the aim of deepening the market study afterwards. More particularly, the ideal would be to produce "groups" of countries, more or less large, whose we know the characteristics . Initially, the strategy is rather to export the products in the new target country(ies) rather than to produce locally.
 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture3.PNG">
 
@@ -43,7 +43,7 @@ Your agri-food business wants to expand internationally. She specializes in chic
 ### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet5_analytics_Hermann.ipynb">Project 5 : Counterfeit banknotes detection using python.</a>   
 
 <b>Situation</b>:
-Your IT consulting company offers you a new mission at the Ministry of the Interior, in the context of the fight against organized crime, at the central office for the repression of counterfeiting. Your mission: to create a counterfeit detection algorithm.
+Your IT consulting company offers you a new mission at the Ministry of the Interior, in the context of the fight against organized crime, at the central office for the repression of counterfeiting. Your mission: to create a counterfeit  banknotes detection algorithm.
 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture4.PNG">
 <b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn et sklearn   
