@@ -1,5 +1,6 @@
 # Hello !! 👋  
 <b>Position</b> : Data analyst  
+<b>Technologies</b> : Python(numpy, pandas, matplotlib, seaborn, plotly,times series, sklearn : Clustering, Principal Component Analysis (PCA), cross validation, classification algorithm and linear regression) , SQL, Power bi, Excel and Statistics.
 <b>My role</b> : As Data Analyst my role is to analyze data and transform it into highly valuable metrics for a company. I’m responsible for both data collection and data processing as well as guaranteeing data integrity. I’ve developed communication and reporting skills to support decision-making processes.
 # A- Data analysis training projects
 ## I-My data analysis training projects with python  
@@ -37,7 +38,7 @@ Your agri-food business wants to expand internationally. She specializes in chic
 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture3.PNG">
 
-<b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn, les tests statistiques and sklearn (Clustering, ACP).    
+<b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn, plotly, les tests statistiques and sklearn (Clustering, ACP).    
 
 ### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet5_analytics_Hermann.ipynb">Project 5 : Counterfeit banknotes detection using python.</a>   
 
