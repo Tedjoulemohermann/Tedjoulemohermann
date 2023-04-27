@@ -1,10 +1,9 @@
 # Hello !! 👋  
 <b>Position</b> : Data analyst  
 <b>My role</b> : As Data Analyst my role is to analyze data and transform it into highly valuable metrics for a company. I’m responsible for both data collection and data processing as well as guaranteeing data integrity. I’ve developed communication and reporting skills to support decision-making processes.
-
-# A-Portfolio of my projects for my data analyst training 
-
-## I- My projects made with the python programming language :   
+# A- Data analysis training projects
+## I-My data analysis training projects with python  
+ 
 ### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet1_analytics_Hermann.ipynb">Project 1 : Public health study with python. </a> 
 
 <b>Situation</b>:
@@ -50,10 +49,11 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 (Clustering, Principal Component Analysis (PCA), cross validation, classification algorithm and linear regression).
 
 
-## II-Portfolio of my SQL projects :
+## II-My data analysis training projects with SQL  :
 
-## III-Portfolio of my Power bi projects :
+## III-My data analysis training projects with Power bi  :
 
-# B- Portfolio of my projects for my Data scientist training
+# B- Data science (data scientist) training projects 
+## I-My data science (data scientist) training projects with python 
 
 
