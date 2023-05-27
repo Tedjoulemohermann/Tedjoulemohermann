@@ -55,7 +55,7 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 ## II-My data analysis training projects with SQL  :
 
 ## III-My data analysis training projects with Power bi  :
-<a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet5_analytics_Hermann.ipynb](https://app.powerbi.com/groups/ef5ae5cf-aea4-4eaf-a0d3-33f00b900490/reports/70ba1ef9-ac97-41c9-a7a6-1030ef9c7957/ReportSection?experience=power-bi">Analyste Vente</a>   
+<a href="[https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet5_analytics_Hermann.ipynb](https://app.powerbi.com/groups/ef5ae5cf-aea4-4eaf-a0d3-33f00b900490/reports/70ba1ef9-ac97-41c9-a7a6-1030ef9c7957/ReportSection?experience=power-bi](https://app.powerbi.com/groups/ef5ae5cf-aea4-4eaf-a0d3-33f00b900490/reports/70ba1ef9-ac97-41c9-a7a6-1030ef9c7957?ctid=74130c38-d1e9-49b2-b4da-a3f9a8f9cb95&pbi_source=linkShare)">Analyste Vente</a>   
 
 # B- Data science (data scientist) training projects 
 ## I-My data science (data scientist) training projects with python 
