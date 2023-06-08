@@ -53,6 +53,13 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 
 
 ## II-My data analysis training projects with SQL  :
+<a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/projetsql.pdf">Project 1 : Creation and exploration of a real estate database with SQL (PostgreSQL).</a> 
+
+<b>Situation</b>:
+
+<img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture6.JPG">
+<b>SKILLS</b>  : update a data catalog, create tables in a database, Perform sql queries to answer a business problem, create a database schema, Load data into a database.
+
 
 ## III-My data analysis training projects with Power bi  :
 
