@@ -5,7 +5,7 @@
 
 <b>My role</b> : As Data Analyst my role is to analyze data and transform it into highly valuable metrics for a company. I’m responsible for both data collection and data processing as well as guaranteeing data integrity. I’ve developed communication and reporting skills to support decision-making processes.  
 <b>My Certifications</b> :  
-<b> some Completed courses certificates<b> 
+<b>Link to view some Completed courses certificates<b> 
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/e1029153ba8843cf739d518cb6497c9c7eaaed22?raw=1">Power BI</a>|| 
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/6209a3129c62a2fd29182e6cd830be84a92856d6?raw=1">SQL</a>||
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/bddb6f5d4419cd21e574f1ffaa455f322acc0cac">Statistiques</a>||
