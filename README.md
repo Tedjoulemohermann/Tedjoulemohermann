@@ -7,7 +7,7 @@
 <b>My Certifications</b> :  
 <b>Link to view some Completed courses certificates<b> 
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/e1029153ba8843cf739d518cb6497c9c7eaaed22?raw=1">Power BI</a>|| 
-<a href="https://www.datacamp.com/statement-of-accomplishment/course/6209a3129c62a2fd29182e6cd830be84a92856d6?raw=1">SQL</a>||
+<a href="https://www.datacamp.com/statement-of-accomplishment/course/f615fe180a4521438565f7e0d4b9e7d81ea3009d">SQL</a>||
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/bddb6f5d4419cd21e574f1ffaa455f322acc0cac">Statistiques</a>||
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/193193a3a5e10e0f5557f83e4b7cf334a1e223bf">Visualisation</a>||
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/bb79b79b6c8e9b31cafa97359d72aba2f8a1dda3">Python</a>
