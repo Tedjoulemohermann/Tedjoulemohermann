@@ -6,7 +6,7 @@
 <b>My role</b> : As Data Analyst my role is to analyze data and transform it into highly valuable metrics for a company. I’m responsible for both data collection and data processing as well as guaranteeing data integrity. I’ve developed communication and reporting skills to support decision-making processes.  
 <b>My Certifications</b> :
 <b> Completed courses<b> 
-a href="https://www.datacamp.com/statement-of-accomplishment/course/e1029153ba8843cf739d518cb6497c9c7eaaed22?raw=1">Power BI </a> 
+<a href="https://www.datacamp.com/statement-of-accomplishment/course/e1029153ba8843cf739d518cb6497c9c7eaaed22?raw=1">Power BI </a> 
 # A- Data analysis training projects
 ## I-My data analysis training projects with python  
 ### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet1_analytics_Hermann.ipynb">Project 1 : Public health study with python. </a> 
