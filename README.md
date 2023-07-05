@@ -71,10 +71,5 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 <b>Situation</b>: The CEO of a manufacturing company called Sintec is looking for a solution to focus not only on the company's performance internally on how well their products sell but also analyze other top competitors sales and how well they are performing against the other competitors products, but they need some help. As a data analysis your mission is to build a report using Sales and Market share  for Sintec company. 
 
 
-<img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture5.PNG"><br>
+<img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture7.JPG"><br>
 <b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, , Dax fonction, Report design and power bi service. 
-
-# B- Data science (data scientist) training projects 
-## I-My data science (data scientist) training projects with python 
-
-
