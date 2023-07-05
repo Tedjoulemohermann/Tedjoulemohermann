@@ -72,4 +72,8 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 
 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture7.JPG"><br>
-<b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, , Dax fonction, Report design and power bi service. 
+<b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, , Dax fonction, Report design and power bi service.     
+
+<! -- 
+# B- Data science (data scientist) training projects 
+## I-My data science (data scientist) training projects with python  -->
