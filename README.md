@@ -8,7 +8,7 @@
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/f615fe180a4521438565f7e0d4b9e7d81ea3009d">SQL</a>||
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/bddb6f5d4419cd21e574f1ffaa455f322acc0cac">Statistiques</a>||
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/193193a3a5e10e0f5557f83e4b7cf334a1e223bf">Visualisation</a>||
-<a href="https://www.datacamp.com/statement-of-accomplishment/course/bb79b79b6c8e9b31cafa97359d72aba2f8a1dda3">Python</a>
+<a href="https://www.datacamp.com/statement-of-accomplishment/course/c64f7ec0e664a154fc4781e295544c2aff2228f5?raw=1">Python</a>
 # A- Data analysis training projects
 ## I-My data analysis training projects with python  
 ### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet1_analytics_Hermann.ipynb">Project 1 : Public health study with python. </a> 
