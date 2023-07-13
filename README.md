@@ -58,7 +58,7 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 
 ## II-My data analysis training projects with SQL  :
 ### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/projetsql.pdf">Project 1 : Creation and exploration of a real estate database with SQL (PostgreSQL) (all the steps of the project).</a> 
-#### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/query.sql">Or view only queries.</a> 
+#### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/query.sql">-Or view only queries.</a> 
 <b>Situation</b>: you are a data analyst at Laplace Immo, a national network of real estate agencies. The national director wants to create a model to stand out from the competition and better predict the selling price of real estate. He entrusts you with the mission of modifying the database to collect real estate and land transactions in France. You will use this database to analyze the market and help the various agencies to better support their customers.
 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture6.JPG"> <br>
@@ -67,9 +67,9 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 
 ## III-My data analysis training projects with Power bi  :
 ### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20analysis.pdf">Project 1 : Competitor Sales Analysis in Power BI.</a> 
-#### <a href="https://www.datacamp.com/statement-of-accomplishment/course/ad6b0d9bcff123b4390534d489d68a27b39b15dd?raw=1">Datacamp Certificate for this case study.</a>   
-#### <a href="https://app.powerbi.com/reportEmbed?reportId=404eb939-74c1-4980-b6f3-4f5aedfa578a&autoAuth=true&ctid=74130c38-d1e9-49b2-b4da-a3f9a8f9cb95">View the interactive report on my power BI service Account.</a>  
-#### <a href="">Business Insights.</a>    
+#### <a href="https://www.datacamp.com/statement-of-accomplishment/course/ad6b0d9bcff123b4390534d489d68a27b39b15dd?raw=1">-Datacamp Certificate for this case study.</a>   
+#### <a href="https://app.powerbi.com/reportEmbed?reportId=404eb939-74c1-4980-b6f3-4f5aedfa578a&autoAuth=true&ctid=74130c38-d1e9-49b2-b4da-a3f9a8f9cb95">-View the interactive report on my power BI service Account.</a>  
+#### <a href="">-Business Insights.</a>    
 <b>Situation</b>: The CEO of a manufacturing company called Sintec is looking for a solution to focus not only on the company's performance internally on how well their products sell but also analyze other top competitors sales and how well they are performing against the other competitors products, but they need some help. As a data analysis your mission is to build a report using Sales and Market share  for Sintec company. 
 
 
