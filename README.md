@@ -67,7 +67,6 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 
 ## III-My data analysis training projects with Power bi  :
 ### <a href="https://app.powerbi.com/reportEmbed?reportId=404eb939-74c1-4980-b6f3-4f5aedfa578a&autoAuth=true&ctid=74130c38-d1e9-49b2-b4da-a3f9a8f9cb95">Project 1 : Competitor Sales Analysis in Power BI.</a> 
-<iframe title="Competitor analysis" width="1140" height="541.25" src="https://app.powerbi.com/reportEmbed?reportId=404eb939-74c1-4980-b6f3-4f5aedfa578a&autoAuth=true&ctid=74130c38-d1e9-49b2-b4da-a3f9a8f9cb95" frameborder="0" allowFullScreen="true"></iframe>
 
 <b>Situation</b>: The CEO of a manufacturing company called Sintec is looking for a solution to focus not only on the company's performance internally on how well their products sell but also analyze other top competitors sales and how well they are performing against the other competitors products, but they need some help. As a data analysis your mission is to build a report using Sales and Market share  for Sintec company. 
 
