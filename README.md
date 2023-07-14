@@ -67,7 +67,7 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 
 ## III-My data analysis training projects with Power bi  :
 ### <a href="https://app.powerbi.com/view?r=eyJrIjoiMzMzZjJkZTYtMTVmNi00NTVlLWEzZjUtODFkMDNjNzI2MTk0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">Project 1 : Competitor Sales Analysis in Power BI.</a> 
-#### <a href="https://www.datacamp.com/statement-of-accomplishment/course/ad6b0d9bcff123b4390534d489d68a27b39b15dd?raw=1">-Datacamp Certificate for this case study.</a> <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20analysis.pdf">-View pdf format.</a><a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20Analysis%20insights.docx">-Business Insights.</a>      
+#### <a href="https://www.datacamp.com/statement-of-accomplishment/course/ad6b0d9bcff123b4390534d489d68a27b39b15dd?raw=1">-Datacamp Certificate for this case study.</a>||  <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20analysis.pdf">-View pdf format.</a>|| <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20Analysis%20insights.docx">-Business Insights.</a>      
 <b>Situation</b>: The CEO of a manufacturing company called Sintec is looking for a solution to focus not only on the company's performance internally on how well their products sell but also analyze other top competitors sales and how well they are performing against the other competitors products, but they need some help. As a data analysis your mission is to build a report using Sales and Market share  for Sintec company. 
 
 
@@ -76,7 +76,7 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 
 
 ### <a href="">Project 2 : Supply Chain Analytics in Power BI.</a> 
-#### <a href="">-Datacamp Certificate for this case study.</a> <a href="">-View pdf format.</a><a href="">Business Insights.</a>      
+#### <a href="">-Datacamp Certificate for this case study.</a>|| <a href="">-View pdf format.</a>|| <a href="">-Business Insights.</a>      
 <b>Situation</b>: You are a Data analyst and The CEO of your Company want that you create powerful make versus buy analysis tool using Power BI, develop a quote analysis tool, calculate costs for various production volumes, and integrate internal manufacturing cost data for in-depth analysis. 
 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/imgsuppch.JPG"><br>
