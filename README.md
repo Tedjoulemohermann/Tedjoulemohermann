@@ -81,8 +81,7 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 #### <a href="">-Datacamp Certificate for this case study.</a>   
 #### <a href="">-View pdf format.</a>  
 #### <a href="">-Business Insights.</a>      
-<b>Situation</b>: The CEO of a manufacturing company called Sintec is looking for a solution to focus not only on the company's performance internally on how well their products sell but also analyze other top competitors sales and how well they are performing against the other competitors products, but they need some help. As a data analysis your mission is to build a report using Sales and Market share  for Sintec company. 
-
+<b>Situation</b>: You are a Data analyst and The CEO of your Company want that you create powerful make versus buy analysis tool using Power BI and develop a quote analysis tool, calculate costs for various production volumes, and integrate internal manufacturing cost data for in-depth analysis. 
 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture7.JPG"><br>
 <b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, , Dax fonction, Report design and power bi service.     
