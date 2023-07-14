@@ -83,5 +83,5 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 #### <a href="">-Business Insights.</a>      
 <b>Situation</b>: You are a Data analyst and The CEO of your Company want that you create powerful make versus buy analysis tool using Power BI, develop a quote analysis tool, calculate costs for various production volumes, and integrate internal manufacturing cost data for in-depth analysis. 
 
-<img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture7.JPG"><br>
+<img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/imgsuppch.JPG"><br>
 <b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.     
