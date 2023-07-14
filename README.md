@@ -81,4 +81,4 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/imgsuppch.JPG"><br>
 <b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.<br><br><br>
-<a href="">See all my Power BI reports or follow me on my page </a> 
+<a href="">SEE ALL MY POWER BI REPORTS OR FOLLOW ME ON MY PAGE </a> 
