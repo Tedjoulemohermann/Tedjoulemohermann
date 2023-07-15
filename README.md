@@ -82,7 +82,7 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/imgsuppch.JPG"><br>
 <b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.<br><br>
 👋 <a href="https://www.novypro.com/profile_projects/hermannportfolio">SEE ALL MY POWER BI REPORTS </a>----------------------------<a href="https://www.novypro.com/my_blog/hermannportfolio">👋FOLLOW ME ON MY BLOG </a>
-# B- Machine learning and Deep learning (Data Scientist)
+# B- Machine learning, Deep learning and NLTK (Data Scientist)
 ### <a href=""> Project 1 : Predicting Credit Card Approvals using python. </a> 
 <b>Situation</b> : Commercial banks receive a lot of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). Luckily, as a Data Scientist your task is to automated with the power of machine learning and pretty much every commercial bank does so nowadays. In this project, you will build an automatic credit card approval predictor using machine learning techniques, just like the real banks do.  
 <b>SKILLS</b>  :Data Manipulation, AI & Machine Learning, Importing & Cleaning Data and Applied Finance.
