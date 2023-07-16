@@ -77,7 +77,7 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 
 ### <a href="">Project 2 : Supply Chain Analytics in Power BI.</a> 
 #### <a href="">-Datacamp Certificate for this case study.</a>|| <a href="">-View pdf format.</a>|| <a href="">-Business Insights.</a>      
-<b>Situation</b>: You are hired as a supply chain analyst for Tenate Industries and The CEO of the Company want that you create powerful make versus buy analysis tool using Power BI, develop a quote analysis tool, calculate costs for various production volumes, and integrate internal manufacturing cost data for in-depth analysis. 
+<b>Situation</b>: You are hired as a supply chain analyst for Tenate Industries and The CEO of the Company want that you create a powerful make versus buy analysis tool using Power BI, develop a quote analysis tool, calculate costs for various production volumes, and integrate internal manufacturing cost data for in-depth analysis. 
 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/imgsuppch.JPG"><br>
 <b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.<br><br>
