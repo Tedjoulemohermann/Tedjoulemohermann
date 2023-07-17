@@ -1,8 +1,8 @@
 # Hello !! 👋  
 <b>Position</b> : Data analyst  
 <b>Technologies</b> : Python(numpy, pandas, matplotlib, seaborn, plotly,times series, sklearn : data preprocessing, Clustering, Principal Component Analysis (PCA), cross validation, pipeline, classification algorithm and linear regression) , SQL, Power bi, Excel and Statistics.  
-<b>My role</b> : As Data Analyst my role is to analyze data and transform it into highly valuable metrics for a company. I’m responsible for both data collection and data processing as well as guaranteeing data integrity. I’ve developed communication and reporting skills to support decision-making processes.  
-<b>My Certifications</b> :
+<b>My role</b> : As Data Analyst my role is to analyze data and transform it into highly valuable metrics for a company. I’m responsible for both data collection and data processing as well as guaranteeing data integrity. I’ve developed communication and reporting skills to support decision-making processes.    
+<b>My Certifications</b> :  
 <b>Link to view some Completed courses certificates : <b> 
 <a href="https://www.datacamp.com/statement-of-accomplishment/track/b01af0786d87756ec96465750fde76a0a7e96ec1">Power BI</a>|| 
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/f615fe180a4521438565f7e0d4b9e7d81ea3009d">SQL</a>||
