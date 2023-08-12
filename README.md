@@ -99,4 +99,18 @@ Commercial banks receive <em>a lot</em> of applications for credit cards. Many o
 Being able to identify bee species from images is a task that ultimately would allow researchers to more quickly and effectively collect field data. Pollinating bees have critical roles in both ecology and agriculture, and diseases like colony collapse disorder threaten these species. Identifying different species of bees in the wild means that we can better understand the prevalence and growth of these important insects.This notebook walks through building a simple deep learning model that can automatically detect honey bees and bumble bees and then loads a pre-trained model for evaluation.
 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Naive_bees.JPG"><br>
-<b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, data preprocessing, Machine learning, Deep learning.    
+<b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, data preprocessing, Machine learning, Deep learning.   
+
+### <a href="">Project 3 :  Book Recommendations from Charles Darwin.</a> 
+
+<b>Situation</b>: The purpose of this project is to develop the bases of a content-based book recommendation system, which will determine which books are close to each other based on how similar the discussed topics are. The methods we will use are commonly used in text- or documents-heavy industries such as legal, tech or customer support to perform some common task such as text classification or handling search engine queries.
+
+<img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/book_recom.JPG"><br>
+<b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, data preprocessing, Machine learning, NLTK.
+
+### <a href="">Project 4 : Extract Stock Sentiment from News Headlines .</a> 
+
+<b>Situation</b>: In this project, we will generate investing insight by applying sentiment analysis on financial news headlines from FINVIZ.com. Using this natural language processing technique, we can understand the emotion behind the headlines and predict whether the market feels good or bad about a stock. It would then be possible to make educated guesses on how certain stocks will perform and trade accordingly. (And hopefully, make money!) 
+
+<img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/senti_analy.JPG"><br>
+<b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, data preprocessing, Machine learning, NLTK.
