@@ -85,7 +85,7 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 
 # A- Data Science projects : Machine learning, Deep learninig
 
-### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet2_analytics_Hermann.ipynb">Project 1 : Credit card applications.</a> 
+### <a href="">Project 1 : Credit card applications.</a> 
 
 <b>Situation</b>:
 Commercial banks receive <em>a lot</em> of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). Luckily, this task can be automated with the power of machine learning and pretty much every commercial bank does so nowadays. In this project, we will build an automatic credit card approval predictor using machine learning techniques, just like the real banks do.
@@ -93,4 +93,10 @@ Commercial banks receive <em>a lot</em> of applications for credit cards. Many o
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/credit_banque.JPG"><br>
 <b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, data preprocessing, Machine learning.        
 
+### <a href="">Project 2 : Naïve Bees: Deep Learning with Images.</a> 
 
+<b>Situation</b>:
+Being able to identify bee species from images is a task that ultimately would allow researchers to more quickly and effectively collect field data. Pollinating bees have critical roles in both ecology and agriculture, and diseases like colony collapse disorder threaten these species. Identifying different species of bees in the wild means that we can better understand the prevalence and growth of these important insects.This notebook walks through building a simple deep learning model that can automatically detect honey bees and bumble bees and then loads a pre-trained model for evaluation.
+
+<img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Naive_bees.JPG"><br>
+<b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, data preprocessing, Machine learning, Deep learning.    
