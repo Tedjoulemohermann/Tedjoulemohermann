@@ -83,7 +83,7 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 <b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.<br><br>
 👋 <a href="https://www.novypro.com/profile_projects/hermannportfolio">SEE ALL MY POWER BI REPORTS </a>----------------------------<a href="https://www.novypro.com/my_blog/hermannportfolio">👋FOLLOW ME ON MY BLOG </a>
 
-# A- Data Science projects : Machine learning, Deep learninig
+# A- Data Science projects : Machine learning, Deep learnining
 
 ### <a href="">Project 1 : Credit card applications.</a> 
 
