@@ -10,7 +10,7 @@
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/193193a3a5e10e0f5557f83e4b7cf334a1e223bf">Visualisation</a>||
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/c64f7ec0e664a154fc4781e295544c2aff2228f5?raw=1">Python</a>
 # A- Data analysis training projects
-## I-My data analysis training projects with python  
+## I-My data analysis projects with python  
 ### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet1_analytics_Hermann.ipynb">Project 1 : Public health study with python. </a> 
 
 <b>Situation</b>:
@@ -56,7 +56,7 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 (Clustering, Principal Component Analysis (PCA), cross validation, classification algorithm and linear regression).
 
 
-## II-My data analysis training projects with SQL  :
+## II-My data analysis projects with SQL  :
 ### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/projetsql.pdf">Project 1 : Creation and exploration of a real estate database with SQL (PostgreSQL) (all the steps of the project).</a> 
 #### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/query.sql">-Or view only queries to answer business Questions.</a> 
 <b>Situation</b>: you are a data analyst at Laplace Immo, a national network of real estate agencies. The national director wants to create a model to stand out from the competition and better predict the selling price of real estate. He entrusts you with the mission of modifying the database to collect real estate and land transactions in France. You will use this database to analyze the market and help the various agencies to better support their customers.
@@ -65,7 +65,7 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 <b>SKILLS</b>: update a data catalog, create tables in a database, Perform sql queries to answer a business problem, create a database schema, Load data into a database.
 
 
-## III-My data analysis training projects with Power bi  :
+## III-My data analysis projects with Power bi  :
 ### <a href="https://app.powerbi.com/view?r=eyJrIjoiMzMzZjJkZTYtMTVmNi00NTVlLWEzZjUtODFkMDNjNzI2MTk0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9">Project 1 : Competitor Sales Analysis in Power BI.</a> 
 #### <a href="https://www.datacamp.com/statement-of-accomplishment/course/ad6b0d9bcff123b4390534d489d68a27b39b15dd?raw=1">-Datacamp Certificate for this case study.</a>||  <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20analysis.pdf">-View pdf format.</a>|| <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20Analysis%20insights.pdf">-Business Insights.</a>      
 <b>Situation</b>: The CEO of a manufacturing company called Sintec is looking for a solution to focus not only on the company's performance internally on how well their products sell but also analyze other top competitors sales and how well they are performing against the other competitors products, but they need some help. As a data analysis your mission is to build a report using Sales and Market share  for Sintec company. 
@@ -82,3 +82,15 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/imgsuppch.JPG"><br>
 <b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.<br><br>
 👋 <a href="https://www.novypro.com/profile_projects/hermannportfolio">SEE ALL MY POWER BI REPORTS </a>----------------------------<a href="https://www.novypro.com/my_blog/hermannportfolio">👋FOLLOW ME ON MY BLOG </a>
+
+# A- Data Science projects : Machine learning, Deep learninig
+
+### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet2_analytics_Hermann.ipynb">Project 1 : Credit card applications.</a> 
+
+<b>Situation</b>:
+Commercial banks receive <em>a lot</em> of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). Luckily, this task can be automated with the power of machine learning and pretty much every commercial bank does so nowadays. In this project, we will build an automatic credit card approval predictor using machine learning techniques, just like the real banks do.
+
+<img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/credit_banque.JPG"><br>
+<b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, data preprocessing, Machine learning.        
+
+
