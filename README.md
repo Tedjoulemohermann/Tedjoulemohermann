@@ -1,5 +1,5 @@
 # Hello !! 👋  
-<b>Position</b> : Data analyst  
+<b>Position</b> : Data analyst/Data Scientist  
 <b>Technologies</b> : Python(numpy, pandas, matplotlib, seaborn, plotly,times series, sklearn : data preprocessing, Clustering, Principal Component Analysis (PCA), cross validation, pipeline, classification algorithm and linear regression) , SQL, Power bi, Excel and Statistics.  
 <b>My role</b> : As Data Analyst my role is to analyze data and transform it into highly valuable metrics for a company. I’m responsible for both data collection and data processing as well as guaranteeing data integrity. I’ve developed communication and reporting skills to support decision-making processes.    
 <b>My Certifications</b> :  
