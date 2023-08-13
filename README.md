@@ -85,7 +85,7 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 
 # A- Data Science projects : Machine learning, Deep learnining
 
-### <a href="">Project 1 : Credit card applications.</a> 
+### <a href="">Project 1 : Predicting Credit Card Approvals.</a> 
 
 <b>Situation</b>:
 Commercial banks receive <em>a lot</em> of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). Luckily, this task can be automated with the power of machine learning and pretty much every commercial bank does so nowadays. In this project, we will build an automatic credit card approval predictor using machine learning techniques, just like the real banks do.
