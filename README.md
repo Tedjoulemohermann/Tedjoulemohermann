@@ -107,10 +107,3 @@ Being able to identify bee species from images is a task that ultimately would a
 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/book_recom.JPG"><br>
 <b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, data preprocessing, Machine learning, NLTK.
-
-### <a href="">Project 4 : Extract Stock Sentiment from News Headlines .</a> 
-
-<b>Situation</b>: In this project, we will generate investing insight by applying sentiment analysis on financial news headlines from FINVIZ.com. Using this natural language processing technique, we can understand the emotion behind the headlines and predict whether the market feels good or bad about a stock. It would then be possible to make educated guesses on how certain stocks will perform and trade accordingly. (And hopefully, make money!) 
-
-<img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/senti_analy.JPG"><br>
-<b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, data preprocessing, Machine learning, NLTK.
