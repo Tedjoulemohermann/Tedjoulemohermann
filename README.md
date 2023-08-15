@@ -101,7 +101,7 @@ Being able to identify bee species from images is a task that ultimately would a
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Naive_bees.JPG"><br>
 <b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, data preprocessing, Machine learning, Deep learning.   
 
-### <a href="">Project 3 :  Book Recommendations from Charles Darwin.</a> 
+### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Projet3_Scientist_Hermann.ipynb">Project 3 :  Book Recommendations from Charles Darwin.</a> 
 
 <b>Situation</b>: The purpose of this project is to develop the bases of a content-based book recommendation system, which will determine which books are close to each other based on how similar the discussed topics are. The methods we will use are commonly used in text- or documents-heavy industries such as legal, tech or customer support to perform some common task such as text classification or handling search engine queries.
 
