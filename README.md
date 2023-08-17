@@ -2,7 +2,7 @@
 <b>Position</b> : Data analyst/Junior Data Scientist  
 <b>Technologies</b> : Python(numpy, pandas, matplotlib, seaborn, plotly,times series, sklearn), Deep learning(TENSOFLOW: CNN,RNN), Machine learning (data preprocessing, EDA, Unsupervised learning, Supervised  learning, cross validation, Pipeline), SQL, Power bi, Excel and Statistics.  
 <b>My role</b> : As Data Analyst my role is to analyze data and transform it into highly valuable metrics for a company. I’m responsible for both data collection and data processing as well as guaranteeing data integrity. I’ve developed communication and reporting skills to support decision-making processes.    
-<b>My Certifications</b> : <a href="https://www.datacamp.com/certificate/DAA0016146079118">Data Analyst Associate</a>
+<b>My Certifications</b> : <a href="https://www.datacamp.com/certificate/DAA0016146079118">Data Analyst Associate</a>  
 <b>Link to view some Completed courses certificates : <b> 
 <a href="https://www.datacamp.com/statement-of-accomplishment/track/b01af0786d87756ec96465750fde76a0a7e96ec1">Power BI</a>|| 
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/f615fe180a4521438565f7e0d4b9e7d81ea3009d">SQL</a>||
