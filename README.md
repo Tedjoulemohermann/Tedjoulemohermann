@@ -86,7 +86,7 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 <b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.<br><br>
 👋 <a href="https://www.novypro.com/profile_projects/hermannportfolio">SEE ALL MY POWER BI REPORTS </a>----------------------------<a href="https://www.novypro.com/my_blog/hermannportfolio">👋FOLLOW ME ON MY BLOG </a>
 
-# A- Data Science projects : Machine learning, Deep learning  
+# B- Data Science projects : Machine learning, Deep learning  
 <b>Link to view some Completed courses certificates : <b> 
 <a href="https://www.kaggle.com/learn/certification/tedjoulemohermann/intermediate-machine-learning">Intermediate Machine Learning</a>||
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/d9c66f7c9b38489d76739ff44970950c07dee663?raw=1">NLTK</a>||
