@@ -1,6 +1,6 @@
 # Hello !! 👋  
 <b>Position</b> : Data analyst/Junior Data Scientist  
-<b>Technologies</b> : Python(numpy, pandas, matplotlib, seaborn, plotly,times series, sklearn), Deep learning(TENSOFLOW: CNN,RNN), Machine learning (data preprocessing, EDA, Unsupervised learning, Supervised  learning, cross validation, Pipeline), SQL, Power bi, Excel and Statistics.  
+<b>Technologies</b> : Python(numpy, pandas, matplotlib, seaborn, plotly,times series, sklearn), Deep learning(TENSOFLOW: CNN,RNN), Machine learning (data preprocessing, EDA, Unsupervised learning, Supervised  learning, cross validation, Pipeline), PySpark, SQL, Power bi, Excel and Statistics.  
 <b>My role</b> : As Data Analyst my role is to analyze data and transform it into highly valuable metrics for a company. I’m responsible for both data collection and data processing as well as guaranteeing data integrity. I’ve developed communication and reporting skills to support decision-making processes.    
 <b>My Certifications</b> : <a href="https://www.datacamp.com/certificate/DAA0016146079118">Data Analyst Associate</a>  
 
