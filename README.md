@@ -114,3 +114,7 @@ Being able to identify bee species from images is a task that ultimately would a
 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/book_recom.JPG"><br>
 <b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, data preprocessing, Machine learning, NLTK.
+<hr />
+- How to reach me : tedjoulemongueudehermann@gmail.com  
+- Know about my experiences and connect we me : https://www.linkedin.com/in/hermann-tedjoulemo/
+
