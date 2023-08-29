@@ -93,6 +93,7 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 <a href="https://www.kaggle.com/learn/certification/tedjoulemohermann/intro-to-deep-learning">Deep Learning</a>||
 <a href="https://www.kaggle.com/learn/certification/tedjoulemohermann/computer-vision">Computer Vision</a>||
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/1bf17ff3a8748402fe7df3970886a956e834a74b?raw=1">Big Data Fundamentals with PySpark</a>
+<a href="https://www.datacamp.com/statement-of-accomplishment/course/a5926f5f795726b01274beb897951e6671f70b72?raw=1">ChatGPT</a>
 ### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Projet1_Scientist_Hermann.ipynb">Project 1 : Predicting Credit Card Approvals.</a> 
 <b>Situation</b>:
 Commercial banks receive <em>a lot</em> of applications for credit cards. Many of them get rejected for many reasons, like high loan balances, low income levels, or too many inquiries on an individual's credit report, for example. Manually analyzing these applications is mundane, error-prone, and time-consuming (and time is money!). Luckily, this task can be automated with the power of machine learning and pretty much every commercial bank does so nowadays. In this project, we will build an automatic credit card approval predictor using machine learning techniques, just like the real banks do.
