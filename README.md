@@ -82,17 +82,16 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 <b>Situation</b>: You are hired as a supply chain analyst for Tenate Industries and The CEO of the Company want that you create a powerful make versus buy analysis tool using Power BI, develop a quote analysis tool, calculate costs for various production volumes, and integrate internal manufacturing cost data for in-depth analysis. 
 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/imgsuppch.JPG"><br>
-<b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.<br><br>
+<b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.<br>
 
-## III-My data analysis projects with Excel  :
+## IV-My data analysis projects with Excel  :
 ### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/churn%203.PNG">Project 1 : Customers Churns Analysis.</a> 
 #### <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/3d6b6305c1f2c38ae650c4fb60b6046993e5e950">-Datacamp Certificate for this case study.
 
-<b>Situation</b>: In this Excel case study, l investigate a dataset from an example telecom company Databel and analyze their churn rates to know why customers are churning at the rate they are and how to reduce churn. l answer these questions by creating calculated columns and fields, building PivotTables, and creating an eye-catching dashboard. . 
-<b>SKILLS</b>  : Data Preparation, Pivotables, Data visualization, Dashboard.<br>
+<b>Situation</b>: In this Excel case study, l investigate a dataset from an example telecom company Databel and analyze their churn rates to know why customers are churning at the rate they are and how to reduce churn. l answer these questions by creating calculated columns and fields, building PivotTables, and creating an eye-catching dashboard. 
 
-<img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture7.JPG"><br>
-<b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service. 
+<img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/churn_image.PNG"><br>
+<b>SKILLS</b>  : Data Preparation, Pivotables, Data visualization, Dashboard.<br>
 
 👋 <a href="https://www.novypro.com/profile_projects/hermannportfolio">SEE ALL MY POWER BI REPORTS </a>----------------------------<a href="https://www.novypro.com/my_blog/hermannportfolio">👋FOLLOW ME ON MY BLOG </a>
 
