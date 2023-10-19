@@ -74,10 +74,8 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 #### <a href="https://www.datacamp.com/statement-of-accomplishment/course/ad6b0d9bcff123b4390534d489d68a27b39b15dd?raw=1">-Datacamp Certificate for this case study.</a>||  <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20analysis.pdf">-View pdf format.</a>|| <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20Analysis%20insights.pdf">-Business Insights.</a>      
 <b>Situation</b>: The CEO of a manufacturing company called Sintec is looking for a solution to focus not only on the company's performance internally on how well their products sell but also analyze other top competitors sales and how well they are performing against the other competitors products, but they need some help. As a data analysis your mission is to build a report using Sales and Market share  for Sintec company. 
 
-
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture7.JPG"><br>
 <b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.     
-
 
 ### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Supply%20Chain%20Analysis.pdf">Project 2 : Supply Chain Analytics in Power BI.</a> 
 #### <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/74a3d7cd2511f06c16c65be8e4560012a17a0315">-Datacamp Certificate for this case study.</a>|| <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Supply%20Chain%20Analysis.pdf">-View pdf format.</a>|| <a href="">-Business Insights.</a>      
@@ -85,6 +83,17 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/imgsuppch.JPG"><br>
 <b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.<br><br>
+
+## III-My data analysis projects with Excel  :
+### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/churn%203.PNG">Project 1 : Customers Churns Analysis.</a> 
+#### <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/3d6b6305c1f2c38ae650c4fb60b6046993e5e950">-Datacamp Certificate for this case study.
+
+<b>Situation</b>: In this Excel case study, l investigate a dataset from an example telecom company Databel and analyze their churn rates to know why customers are churning at the rate they are and how to reduce churn. l answer these questions by creating calculated columns and fields, building PivotTables, and creating an eye-catching dashboard. . 
+<b>SKILLS</b>  : Data Preparation, Pivotables, Data visualization, Dashboard.<br>
+
+<img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture7.JPG"><br>
+<b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service. 
+
 👋 <a href="https://www.novypro.com/profile_projects/hermannportfolio">SEE ALL MY POWER BI REPORTS </a>----------------------------<a href="https://www.novypro.com/my_blog/hermannportfolio">👋FOLLOW ME ON MY BLOG </a>
 
 # B- Data Science projects : Machine learning, Deep learning  
