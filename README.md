@@ -127,4 +127,6 @@ Being able to identify bee species from images is a task that ultimately would a
 <hr />
 - How to reach me : tedjoulemongueudehermann@gmail.com  <br>
 - Know about my experiences and connect we me : https://www.linkedin.com/in/hermann-tedjoulemo/
+# C- MACHINE LEARNING MODEL DEPLOYMENT : STREAMLIT  
+<a href="https://hermannmachinelearning.streamlit.app/">Project 1 : IRIS_FLOWER_PREDICTION .</a>
 
