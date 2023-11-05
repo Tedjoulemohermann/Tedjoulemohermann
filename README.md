@@ -123,10 +123,11 @@ Being able to identify bee species from images is a task that ultimately would a
 <b>Situation</b>: The purpose of this project is to develop the bases of a content-based book recommendation system, which will determine which books are close to each other based on how similar the discussed topics are. The methods we will use are commonly used in text- or documents-heavy industries such as legal, tech or customer support to perform some common task such as text classification or handling search engine queries.
 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/book_recom.JPG"><br>
-<b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, data preprocessing, Machine learning, NLTK.
+<b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, data preprocessing, Machine learning, NLTK.  
+# C- MACHINE LEARNING MODEL DEPLOYMENT : STREAMLIT  
+<a href="https://hermannmachinelearning.streamlit.app/">Project 1 : IRIS_FLOWER_PREDICTION .</a>
 <hr />
 - How to reach me : tedjoulemongueudehermann@gmail.com  <br>
 - Know about my experiences and connect we me : https://www.linkedin.com/in/hermann-tedjoulemo/
-# C- MACHINE LEARNING MODEL DEPLOYMENT : STREAMLIT  
-<a href="https://hermannmachinelearning.streamlit.app/">Project 1 : IRIS_FLOWER_PREDICTION .</a>
+
 
