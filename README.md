@@ -7,7 +7,7 @@
 # A- Data analysis  projects
 <b>Link to view some Completed courses certificates : <b> 
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/05fb169f97cb6d6490878d42d9acceabb0a9358b">Excel</a>|| 
-<a href="https://www.datacamp.com/statement-of-accomplishment/track/b01af0786d87756ec96465750fde76a0a7e96ec1">Power BI</a>|| 
+<a href="https://www.datacamp.com/statement-of-accomplishment/track/e0e8582409333b35dcb8124a2f451aa0f1fb84a4?raw=1">Power BI</a>|| 
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/f615fe180a4521438565f7e0d4b9e7d81ea3009d">SQL</a>||
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/bddb6f5d4419cd21e574f1ffaa455f322acc0cac">Statistics</a>||
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/193193a3a5e10e0f5557f83e4b7cf334a1e223bf">Visualization</a>||
