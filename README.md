@@ -6,12 +6,12 @@
 
 # A- Data analysis  projects
 <b>Link to view some Completed courses certificates : <b> 
-<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/05fb169f97cb6d6490878d42d9acceabb0a9358b">Excel</a>|| 
-<a href="https://www.datacamp.com/statement-of-accomplishment/track/e0e8582409333b35dcb8124a2f451aa0f1fb84a4?raw=1">Power BI</a>|| 
-<a href="https://www.datacamp.com/statement-of-accomplishment/course/f615fe180a4521438565f7e0d4b9e7d81ea3009d">SQL</a>||
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/05fb169f97cb6d6490878d42d9acceabb0a9358b">Data Analysis in Excel</a>|| 
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/e0e8582409333b35dcb8124a2f451aa0f1fb84a4">Data Analyst in Power BI</a>||
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/93eae3ac3ce29af4163792d1ff882f1a59fc1a59">Data Analyst with Python</a>||
+<a href="https://www.datacamp.com/statement-of-accomplishment/course/f615fe180a4521438565f7e0d4b9e7d81ea3009d">Data Manipulation in SQL</a>||
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/bddb6f5d4419cd21e574f1ffaa455f322acc0cac">Statistics</a>||
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/193193a3a5e10e0f5557f83e4b7cf334a1e223bf">Visualization</a>||
-<a href="https://www.datacamp.com/statement-of-accomplishment/course/c64f7ec0e664a154fc4781e295544c2aff2228f5?raw=1">Python</a>||
 <a href="https://www.kaggle.com/learn/certification/tedjoulemohermann/intro-to-machine-learning">Machine learning</a>  
 
 ## I-My data analysis projects with python  
