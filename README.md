@@ -7,13 +7,13 @@
 # A- Data analysis  projects
 <b>Link to view some Completed courses or Data Analyst Track certificates : <b> 
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/05fb169f97cb6d6490878d42d9acceabb0a9358b">Data Analysis in Excel</a>|| 
-<a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/e0e8582409333b35dcb8124a2f451aa0f1fb84a4">Data Analyst in Power BI</a>||
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/e0e8582409333b35dcb8124a2f451aa0f1fb84a4">Data Analyst in Power BI</a>||       
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/93eae3ac3ce29af4163792d1ff882f1a59fc1a59">Data Analyst with Python</a>||
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/f615fe180a4521438565f7e0d4b9e7d81ea3009d">Data Manipulation in SQL</a>||
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/bddb6f5d4419cd21e574f1ffaa455f322acc0cac">Statistics</a>||
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/193193a3a5e10e0f5557f83e4b7cf334a1e223bf">Visualization</a>||
 <a href="https://www.kaggle.com/learn/certification/tedjoulemohermann/intro-to-machine-learning">Machine learning</a> ||
-<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/2cb49adc73d7e7a03c6deb66c271d4980bfb9fea">Data Communication Concepts</a> ||
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/2cb49adc73d7e7a03c6deb66c271d4980bfb9fea">Data Communication Concepts</a> ||       
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/653d56deb843a261003e017196a66ff1b7c1ef36">Data Science for Business</a> 
 
 ## I-My data analysis projects with python  
