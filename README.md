@@ -5,7 +5,7 @@
 <b>My Certifications</b> : <a href="https://www.datacamp.com/certificate/DAA0016146079118">Data Analyst Associate</a> || <a href="https://www.datacamp.com/certificate/SQA0014682993677">SQL Associate</a> ||  <a href="https://www.datacamp.com/skill-verification/AIF0012272058551">AI Fundamentals</a>||<a href="https://www.datacamp.com/skill-verification/DL0038727449774">Data Literacy</a> 
 
 # A- Data analysis  projects
-<b>Link to view some Completed courses certificates : <b> 
+<b>Link to view some Completed courses or Data Analyst Track certificates : <b> 
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/05fb169f97cb6d6490878d42d9acceabb0a9358b">Data Analysis in Excel</a>|| 
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/e0e8582409333b35dcb8124a2f451aa0f1fb84a4">Data Analyst in Power BI</a>||
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/93eae3ac3ce29af4163792d1ff882f1a59fc1a59">Data Analyst with Python</a>||
