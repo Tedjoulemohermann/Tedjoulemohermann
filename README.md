@@ -106,7 +106,7 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 <a href="https://www.kaggle.com/learn/certification/tedjoulemohermann/intro-to-deep-learning">Deep Learning</a>||
 <a href="https://www.kaggle.com/learn/certification/tedjoulemohermann/computer-vision">Computer Vision</a>||
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/1bf17ff3a8748402fe7df3970886a956e834a74b">Big Data Fundamentals with PySpark</a>||
-<a href="https://www.datacamp.com/statement-of-accomplishment/course/a5926f5f795726b01274beb897951e6671f70b72?raw=1">ChatGPT</a>||
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/a5926f5f795726b01274beb897951e6671f70b72">ChatGPT</a>||
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/0e09084067f9abf7459c0dbb3c52602efa6f951a">Machine Learning for Business</a>
 
 ### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Projet1_Scientist_Hermann.ipynb">Project 1 : Predicting Credit Card Approvals.</a> 
