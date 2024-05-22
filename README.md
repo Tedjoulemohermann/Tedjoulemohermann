@@ -102,7 +102,7 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 <b>Link to view some Completed courses certificates : <b>
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/2c0f4b275774e7c9894d180f7afbce4569f2e2a3">Associate Data Scientist in Python</a> ||  
 <a href="https://www.kaggle.com/learn/certification/tedjoulemohermann/intermediate-machine-learning">Intermediate Machine Learning</a>||
-<a href="https://www.datacamp.com/statement-of-accomplishment/course/d9c66f7c9b38489d76739ff44970950c07dee663?raw=1">NLTK</a>||
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/d9c66f7c9b38489d76739ff44970950c07dee663">NLTK</a>||
 <a href="https://www.kaggle.com/learn/certification/tedjoulemohermann/intro-to-deep-learning">Deep Learning</a>||
 <a href="https://www.kaggle.com/learn/certification/tedjoulemohermann/computer-vision">Computer Vision</a>||
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/1bf17ff3a8748402fe7df3970886a956e834a74b">Big Data Fundamentals with PySpark</a>||
