@@ -135,6 +135,7 @@ Being able to identify bee species from images is a task that ultimately would a
 <hr />
 - How to reach me : tedjoulemongueudehermann@gmail.com  <br>
 - Know about my experiences and connect we me : https://www.linkedin.com/in/hermann-tedjoulemo/  <br>               
-- Contact me : +237 678549530 / +237 699173788
+- Contact me : +237 678549530 / +237 699173788  
+- My DataCamp PortFolio : https://www.datacamp.com/portfolio/tedjoulemongueudehermann
 
 
