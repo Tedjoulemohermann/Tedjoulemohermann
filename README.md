@@ -15,7 +15,8 @@
 <a href="https://www.kaggle.com/learn/certification/tedjoulemohermann/intro-to-machine-learning">Machine learning</a>  ||
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/afea8f0a13c97a3909f8b2997a92f75569c7ef3f">Forming Analytical Questions</a> ||
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/2cb49adc73d7e7a03c6deb66c271d4980bfb9fea">Data Communication Concepts</a> ||
-<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/653d56deb843a261003e017196a66ff1b7c1ef36">Data Science for Business</a>
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/653d56deb843a261003e017196a66ff1b7c1ef36">Data Science for Business</a>||  
+<b>My Datacamp PortFolio (View all my works or success on Datacamp website: <b> <a href="https://www.datacamp.com/portfolio/tedjoulemongueudehermann">My Datacamp PortFolio</a> 
 
 ## I-My data analysis projects with python  
 ### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet1_analytics_Hermann.ipynb">Project 1 : Public health study with python. </a> 
