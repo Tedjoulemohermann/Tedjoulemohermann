@@ -85,9 +85,9 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 
 ### <a href="https://app.powerbi.com/view?r=eyJrIjoiYTRkYTkzNjYtYjAwOS00ZmZhLTkxMWEtMDYzNmRiMTllNDEwIiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 2 : HR Analytics in Power BI.</a> 
 #### <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/7d2fded9b2dac574abdd6adaf3601931612ba853">-Datacamp Certificate for this case study.</a>|| <a href="">-Business Insights.</a>      
-<b>Situation</b>: In this Power BI case study, l explore a dataset for a fictitious software company called Atlas Labs. This Project import, analyze and visualize Human Resources data in Power BI. 
+<b>Situation</b>: In this Power BI case study, l explore a dataset for a fictitious software company called Atlas Labs. This Project focus on import, analyze and visualize Human Resources data in Power BI. 
 
-<img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/imgsuppch.JPG"><br>
+<img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/im_HR.PNG"><br>
 <b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.<br>
 
 ### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Supply%20Chain%20Analysis.pdf">Project 3 : Supply Chain Analytics in Power BI.</a> 
