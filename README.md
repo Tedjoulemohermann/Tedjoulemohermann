@@ -84,7 +84,7 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 <b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.     
 
 ### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Supply%20Chain%20Analysis.pdf">Project 2 : Supply Chain Analytics in Power BI.</a> 
-#### <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/74a3d7cd2511f06c16c65be8e4560012a17a0315">-Datacamp Certificate for this case study.</a>|| <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Supply%20Chain%20Analysis.pdf">-View pdf format.</a>|| <a href="">-Business Insights.</a>      
+#### <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/74a3d7cd2511f06c16c65be8e4560012a17a0315">-Datacamp Certificate for this case study.</a>|| <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Supply%20Chain%20Analysis.pdf">-View pdf format.</a>|| <a href="https://app.powerbi.com/reportEmbed?reportId=faf1440c-56d4-4f4f-a74d-cf483576f150&autoAuth=true&ctid=dc025121-9766-4c21-83f4-3427522a5509">-Business Insights.</a>      
 <b>Situation</b>: You are hired as a supply chain analyst for Tenate Industries and The CEO of the Company want that you create a powerful make versus buy analysis tool using Power BI, develop a quote analysis tool, calculate costs for various production volumes, and integrate internal manufacturing cost data for in-depth analysis. 
 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/imgsuppch.JPG"><br>
