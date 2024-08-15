@@ -77,14 +77,21 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 
 ## III-My data analysis projects with Power bi  :
 ### <a href="https://app.powerbi.com/view?r=eyJrIjoiNjViNWVjYmItNjA4YS00MGQwLWEyMWItYzljOTY5MThmMTc0IiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 1 : Competitor Sales Analysis in Power BI.</a> 
-#### <a href="https://www.datacamp.com/statement-of-accomplishment/course/ad6b0d9bcff123b4390534d489d68a27b39b15dd?raw=1">-Datacamp Certificate for this case study.</a>||  <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20analysis.pdf">-View pdf format.</a>|| <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20Analysis%20insights.pdf">-Business Insights.</a>      
-<b>Situation</b>: The CEO of a manufacturing company called Sintec is looking for a solution to focus not only on the company's performance internally on how well their products sell but also analyze other top competitors sales and how well they are performing against the other competitors products, but they need some help. As a data analysis your mission is to build a report using Sales and Market share  for Sintec company. 
+#### <a href="https://www.datacamp.com/statement-of-accomplishment/course/ad6b0d9bcff123b4390534d489d68a27b39b15dd?raw=1">-Datacamp Certificate for this case study.</a>||  <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20analysis.pdf">-View pdf format.</a>|| <a href="">-Business Insights.</a>      
+<b>Situation</b>: In this Power BI case study, l explore a dataset for a fictitious software company called Atlas Labs. This Project import, analyze and visualize Human Resources data in Power BI.
 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture7.JPG"><br>
-<b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.     
+<b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.  
 
-### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Supply%20Chain%20Analysis.pdf">Project 2 : Supply Chain Analytics in Power BI.</a> 
-#### <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/74a3d7cd2511f06c16c65be8e4560012a17a0315">-Datacamp Certificate for this case study.</a>|| <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Supply%20Chain%20Analysis.pdf">-View pdf format.</a>|| <a href="https://app.powerbi.com/reportEmbed?reportId=faf1440c-56d4-4f4f-a74d-cf483576f150&autoAuth=true&ctid=dc025121-9766-4c21-83f4-3427522a5509">-Business Insights.</a>      
+### <a href="https://app.powerbi.com/view?r=eyJrIjoiYTRkYTkzNjYtYjAwOS00ZmZhLTkxMWEtMDYzNmRiMTllNDEwIiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 2 : HR Analytics in Power BI.</a> 
+#### <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/7d2fded9b2dac574abdd6adaf3601931612ba853">-Datacamp Certificate for this case study.</a>|| <a href="">-Business Insights.</a>      
+<b>Situation</b>: You are hired as a supply chain analyst for Tenate Industries and The CEO of the Company want that you create a powerful make versus buy analysis tool using Power BI, develop a quote analysis tool, calculate costs for various production volumes, and integrate internal manufacturing cost data for in-depth analysis. 
+
+<img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/imgsuppch.JPG"><br>
+<b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.<br>
+
+### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Supply%20Chain%20Analysis.pdf">Project 3 : Supply Chain Analytics in Power BI.</a> 
+#### <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/74a3d7cd2511f06c16c65be8e4560012a17a0315">-Datacamp Certificate for this case study.</a>|| <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Supply%20Chain%20Analysis.pdf">-View pdf format.</a>|| <a href="">-Business Insights.</a>      
 <b>Situation</b>: You are hired as a supply chain analyst for Tenate Industries and The CEO of the Company want that you create a powerful make versus buy analysis tool using Power BI, develop a quote analysis tool, calculate costs for various production volumes, and integrate internal manufacturing cost data for in-depth analysis. 
 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/imgsuppch.JPG"><br>
