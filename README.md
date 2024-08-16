@@ -112,8 +112,6 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/churn_image.PNG"><br>
 <b>SKILLS</b>  : Data Preparation, Pivotables, Data visualization, Dashboard.<br>
 
-👋 <a href="https://www.novypro.com/profile_projects/hermannportfolio">SEE ALL MY POWER BI REPORTS </a>----------------------------<a href="https://www.novypro.com/my_blog/hermannportfolio">👋FOLLOW ME ON MY BLOG </a>
-
 # B- Data Science projects : Machine learning, Deep learning  
 <b>Link to view some Completed courses certificates : <b>
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/f7b6b703b99d44236ec84856bf30fdecc331642f">Associate Data Scientist in Python</a>   ||
