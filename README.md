@@ -90,7 +90,13 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/im_HR.PNG"><br>
 <b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.<br>
 
-### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Supply%20Chain%20Analysis.pdf">Project 3 : Supply Chain Analytics in Power BI.</a> 
+### <a href="https://app.powerbi.com/view?r=eyJrIjoiYjIxM2YzZDktYmJhMi00NGEyLWE0ODQtMGEzMDFiZGIzYTEwIiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 4 : HR Analytics in Power BI.</a>      
+<b>Situation</b>: Everyone knows the impact that covid has had on our society. I therefore decided to create a report which gives the statistics of Covid 19 in 2024. I retrieved the data from the Wikipedia site. 
+
+<img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/image_covid.PNG"><br>
+<b>SKILLS</b>  : Web Scraping, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.<br>
+
+### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Supply%20Chain%20Analysis.pdf">Project 5 : Supply Chain Analytics in Power BI.</a> 
 #### <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/74a3d7cd2511f06c16c65be8e4560012a17a0315">-Datacamp Certificate for this case study.</a>|| <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Supply%20Chain%20Analysis.pdf">-View pdf format.</a>|| <a href="">-Business Insights.</a>      
 <b>Situation</b>: You are hired as a supply chain analyst for Tenate Industries and The CEO of the Company want that you create a powerful make versus buy analysis tool using Power BI, develop a quote analysis tool, calculate costs for various production volumes, and integrate internal manufacturing cost data for in-depth analysis. 
 
