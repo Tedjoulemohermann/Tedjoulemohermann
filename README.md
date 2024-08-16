@@ -104,8 +104,9 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 <b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.<br>
 
 ## IV-My data analysis projects with Excel  :
-### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/customers%20churns%20.pdf">Project 1 : Customers Churns Analysis.</a> 
+### <a href=https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/customers%20churns%20.pdf"">Project 1 : Customers Churns Analysis.</a> 
 #### <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/3d6b6305c1f2c38ae650c4fb60b6046993e5e950">-Datacamp Certificate for this case study.
+<a href="https://docs.google.com/spreadsheets/d/1uB-xBK0-H03NQHCYjHlM-G0HOi7Y0qPF/edit?usp=drive_link&ouid=117800817369715646951&rtpof=true&sd=true">Download excel file.</a> 
 
 <b>Situation</b>: In this Excel case study, l investigate a dataset from an example telecom company Databel and analyze their churn rates to know why customers are churning at the rate they are and how to reduce churn. l answer these questions by creating calculated columns and fields, building PivotTables, and creating an eye-catching dashboard. 
 
