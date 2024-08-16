@@ -90,7 +90,7 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/im_HR.PNG"><br>
 <b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.<br>
 
-### <a href="https://app.powerbi.com/view?r=eyJrIjoiYjIxM2YzZDktYmJhMi00NGEyLWE0ODQtMGEzMDFiZGIzYTEwIiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 4 : HR Analytics in Power BI.</a>      
+### <a href="https://app.powerbi.com/view?r=eyJrIjoiYjIxM2YzZDktYmJhMi00NGEyLWE0ODQtMGEzMDFiZGIzYTEwIiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 4 : Covid 19 Statistics in Power BI.</a>      
 <b>Situation</b>: Everyone knows the impact that covid has had on our society. I therefore decided to create a report which gives the statistics of Covid 19 in 2024. I retrieved the data from the Wikipedia site. 
 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/image_covid.PNG"><br>
