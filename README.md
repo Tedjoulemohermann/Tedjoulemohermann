@@ -78,7 +78,7 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 ## III-My data analysis projects with Power bi  :
 ### <a href="https://app.powerbi.com/view?r=eyJrIjoiNjViNWVjYmItNjA4YS00MGQwLWEyMWItYzljOTY5MThmMTc0IiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 1 : Competitor Sales Analysis in Power BI.</a> 
 #### <a href="https://www.datacamp.com/statement-of-accomplishment/course/ad6b0d9bcff123b4390534d489d68a27b39b15dd?raw=1">-Datacamp Certificate for this case study.</a>||  <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20analysis.pdf">-View pdf format.</a>|| <a href="">-Business Insights.</a>      
-<b>Situation</b>: In this Power BI case study l carry out a sales and market share analysis for a fictitious company called Sintec, focusing not only on the company's performance internally, reflecting on how well the products sell, but also externally analyzing how well they are doing against competing manufacturers. Thus, business users can make informed decisions and actions on their data..
+<b>Situation</b>: You are hired as a Data analyst in fictional company called Sintec and The CEO of the Company want that you carry out a sales and market share analysis for a fictitious company called Sintec, focusing not only on the company's performance internally, reflecting on how well the products sell, but also externally analyzing how well they are doing against competing manufacturers. Thus, business users can make informed decisions and actions on their data..
 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture7.JPG"><br>
 <b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.  
@@ -91,8 +91,9 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 <b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.<br>
 
 ### <a href="https://app.powerbi.com/view?r=eyJrIjoiYTRkYTkzNjYtYjAwOS00ZmZhLTkxMWEtMDYzNmRiMTllNDEwIiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 3 : Analyzing Healthcare Data in Power BI.</a> 
-#### <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/7d2fded9b2dac574abdd6adaf3601931612ba853">-Datacamp Certificate for this case study.</a>|| <a href="">-Business Insights.</a>      
-<b>Situation</b>: In this Power BI case study, l explore a dataset for a fictitious software company called Atlas Labs. This Project focus on import, analyze and visualize Human Resources data in Power BI. 
+#### <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/7d2fded9b2dac574abdd6adaf3601931612ba853">-Datacamp Certificate for this case study.</a>|| <a href="">-Business Insights.</a>   
+<b>Situation</b>:  You are hired as a Data analyst in fictional consulting company called HealthStat and the Director want that you analyze attributes impacting the patient length of stay (LOS) and cost and work to identify factors contributing to hospital difference. To finish off, you’ll bring it all together in a sophisticated business dashboard to communicate insights for the HealthStat team.
+
 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/im_sante.PNG"><br>
 <b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.<br>
