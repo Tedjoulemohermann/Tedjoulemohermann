@@ -83,19 +83,18 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture7.JPG"><br>
 <b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.  
 
-### <a href="https://app.powerbi.com/view?r=eyJrIjoiYTRkYTkzNjYtYjAwOS00ZmZhLTkxMWEtMDYzNmRiMTllNDEwIiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 2 : HR Analytics in Power BI.</a> 
+### <a href="https://app.powerbi.com/view?r=eyJrIjoiNmUzMTA3ZWQtYmU2ZC00OWQ0LWExMzgtYzg2ODc1MWViNjRlIiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 2 : Analyzing Healthcare Data in Power BI.</a> 
+#### <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/5a787c7cb9ba1257eabf657fa3a04cedf50161a9">-Datacamp Certificate for this case study.</a>|| <a href="">-Business Insights.</a>   
+<b>Situation</b>:  You are hired as a Data analyst in fictional consulting company called HealthStat and the Director want that you analyze attributes impacting the patient length of stay (LOS) and cost and work to identify factors contributing to hospital difference. To finish off, you’ll bring it all together in a sophisticated business dashboard to communicate insights for the HealthStat team.
+
+<img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/im_sante.PNG"><br>
+<b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.<br>
+
+### <a href="https://app.powerbi.com/view?r=eyJrIjoiYTRkYTkzNjYtYjAwOS00ZmZhLTkxMWEtMDYzNmRiMTllNDEwIiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 3 : HR Analytics in Power BI.</a> 
 #### <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/7d2fded9b2dac574abdd6adaf3601931612ba853">-Datacamp Certificate for this case study.</a>|| <a href="">-Business Insights.</a>      
 <b>Situation</b>: In this Power BI case study, l explore a dataset for a fictitious software company called Atlas Labs. This Project focus on import, analyze and visualize Human Resources data in Power BI. 
 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/im_HR.PNG"><br>
-<b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.<br>
-
-### <a href="https://app.powerbi.com/view?r=eyJrIjoiYTRkYTkzNjYtYjAwOS00ZmZhLTkxMWEtMDYzNmRiMTllNDEwIiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 3 : Analyzing Healthcare Data in Power BI.</a> 
-#### <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/7d2fded9b2dac574abdd6adaf3601931612ba853">-Datacamp Certificate for this case study.</a>|| <a href="">-Business Insights.</a>   
-<b>Situation</b>:  You are hired as a Data analyst in fictional consulting company called HealthStat and the Director want that you analyze attributes impacting the patient length of stay (LOS) and cost and work to identify factors contributing to hospital difference. To finish off, you’ll bring it all together in a sophisticated business dashboard to communicate insights for the HealthStat team.
-
-
-<img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/im_sante.PNG"><br>
 <b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.<br>
 
 ### <a href="https://app.powerbi.com/view?r=eyJrIjoiYjIxM2YzZDktYmJhMi00NGEyLWE0ODQtMGEzMDFiZGIzYTEwIiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 4 : Covid 19 Statistics in Power BI.</a>      
