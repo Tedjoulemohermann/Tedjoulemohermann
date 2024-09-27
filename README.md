@@ -119,6 +119,16 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/churn_image.PNG"><br>
 <b>SKILLS</b>  : Data Preparation, Pivotables, Data visualization, Dashboard.<br>
 
+### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/customers%20churns%20.pdf">Project 2 : Net Revenue Management in Excel .</a> 
+#### <a href="https://app.datacamp.com/learn/courses/case-study-net-revenue-management-in-excel">-Datacamp Certificate for this case study.</a>||<a href="https://docs.google.com/spreadsheets/d/1uB-xBK0-H03NQHCYjHlM-G0HOi7Y0qPF/edit?usp=drive_link&ouid=117800817369715646951&rtpof=true&sd=true">Download excel file.</a> 
+
+<b>Situation</b>: In this Excel case study, l start by analyzing a big dataset and performing a market analysis. l go from calculating market share to creating clear visuals to reveal actionable insights. Next, l use the principles of Net Revenue Management (NRM), which will help you to identify new growth opportunities for your Fast Moving Consumer Goods industry.
+
+ 
+
+<img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/image_fmcg.PNG"><br>
+<b>SKILLS</b>  : Data Preparation, PivotTables, Data visualization, Excel Functions, VLOOKUP, Forcasting.<br>
+
 # B- Data Science projects : Machine learning, Deep learning  
 <b>Link to view some Completed courses certificates : <b>
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/f7b6b703b99d44236ec84856bf30fdecc331642f">Associate Data Scientist in Python</a>   ||
