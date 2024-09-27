@@ -122,7 +122,7 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 ### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/NRM_EXCEL.pdf">Project 2 : Net Revenue Management in Excel .</a> 
 #### <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/0eca70889b5613f48559f3b2f40958a49f315f4b">-Datacamp Certificate for this case study.</a>
 
-<b>Situation</b>: In this Excel case study, l start by analyzing a big dataset and performing a market analysis. l go from calculating market share to creating clear visuals to reveal actionable insights. Next, l use the principles of Net Revenue Management (NRM), which will help you to identify new growth opportunities for Fast Moving Consumer Goods industry.
+<b>Situation</b>: In this Excel case study, l start by analyzing a big dataset and performing a market analysis. l go from calculating market share to creating clear visuals to reveal actionable insights. Next, l use the principles of Net Revenue Management (NRM), which will help to identify new growth opportunities for Fast Moving Consumer Goods industry.
 
  
 
