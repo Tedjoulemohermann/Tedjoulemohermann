@@ -165,7 +165,7 @@ Being able to identify bee species from images is a task that ultimately would a
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/book_recom.JPG"><br>
 <b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, data preprocessing, Machine learning, NLTK.  
 # C- MACHINE LEARNING MODEL DEPLOYMENT : STREAMLIT  
-<a href="https://hermannmachinelearning.streamlit.app/">Project 1 : IRIS_FLOWER_PREDICTION .</a>
+<a href="https://hermannmachinelearning.streamlit.app/">Project 1 : IRIS_FLOWER_PREDICTION .</a>  
 <b>Situation</b>: In this project I deployed a classic machine learning model with Streamlit and GitHub. This is an algorithm for classifying iris flowers..
 <b>SKILLS</b>  : Pycharm, GitHub, Streamlit, Machine learning, Pandas, Numpy.
 <hr /> 
