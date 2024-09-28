@@ -65,7 +65,8 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 <b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn et sklearn   
 (Clustering, Principal Component Analysis (PCA), cross validation, classification algorithm and linear regression).
 
-
+--> <a href="https://www.datacamp.com/portfolio/tedjoulemongueudehermann"> Discover other python projects that I have carried out on the datacamp platform
+</a>
 ## II-My data analysis projects with SQL  :
 ### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/projetsql.pdf">Project 1 : Creation and exploration of a real estate database with SQL (PostgreSQL) (all the steps of the project).</a> 
 #### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/query.sql">-Or view only queries to answer business Questions.</a> 
@@ -74,6 +75,8 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture6.JPG"> <br>
 <b>SKILLS</b>: update a data catalog, create tables in a database, Perform sql queries to answer a business problem, create a database schema, Load data into a database.
 
+--> <a href="https://www.datacamp.com/portfolio/tedjoulemongueudehermann"> Discover other SQL projects that I have carried out on the datacamp platform
+</a>
 
 ## III-My data analysis projects with Power bi  :
 ### <a href="https://app.powerbi.com/view?r=eyJrIjoiNjViNWVjYmItNjA4YS00MGQwLWEyMWItYzljOTY5MThmMTc0IiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 1 : Competitor Sales Analysis in Power BI.</a> 
