@@ -64,7 +64,7 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture4.PNG">
 <b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn et sklearn   
 (Clustering, Principal Component Analysis (PCA), cross validation, classification algorithm and linear regression).  
-  
+ <br> 
 --> <a href="https://www.datacamp.com/portfolio/tedjoulemongueudehermann"> Discover other python projects that I have carried out on the datacamp platform</a>
   
 ## II-My data analysis projects with SQL  :
@@ -168,8 +168,8 @@ Being able to identify bee species from images is a task that ultimately would a
 <b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, data preprocessing, Machine learning, NLTK.  
 # C- MACHINE LEARNING MODEL DEPLOYMENT : STREAMLIT  
 <a href="https://hermannmachinelearning.streamlit.app/">Project 1 : IRIS_FLOWER_PREDICTION .</a>  
-<b>Situation</b>: In this project I deployed a classic machine learning model with Streamlit and GitHub. This is an algorithm for classifying iris flowers..
-<b>SKILLS</b>  : Pycharm, GitHub, Streamlit, Machine learning, Pandas, Numpy.
+<b>Situation</b>: In this project I deployed a classic machine learning model with Streamlit and GitHub. This is an algorithm for classifying iris flowers.  
+<b>SKILLS</b>: Pycharm, GitHub, Streamlit, Machine learning, Pandas, Numpy.
 <hr /> 
 - How to reach me : tedjoulemongueudehermann@gmail.com  <br>
 - Know about my experiences and connect we me : https://www.linkedin.com/in/hermann-tedjoulemo/  <br>               
