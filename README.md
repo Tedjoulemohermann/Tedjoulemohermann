@@ -18,7 +18,7 @@
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/2cb49adc73d7e7a03c6deb66c271d4980bfb9fea">Data Communication Concepts</a> ||
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/653d56deb843a261003e017196a66ff1b7c1ef36">Data Science for Business</a>   
 
-#### --><a href="https://www.datacamp.com/portfolio/tedjoulemongueudehermann">My Datacamp PortFolio (See all my work or successes on the Datacamp website) : My Datacamp PortFolio</a> 
+#### --> <a href="https://www.datacamp.com/portfolio/tedjoulemongueudehermann">See all my work or successes on the Datacamp website : My Datacamp PortFolio</a> 
 
 ## I-My data analysis projects with python  
 ### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet1_analytics_Hermann.ipynb">Project 1 : Public health study with python. </a> 
@@ -64,8 +64,8 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture4.PNG">
 <b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn et sklearn   
 (Clustering, Principal Component Analysis (PCA), cross validation, classification algorithm and linear regression).  
-  <br>  
-#### --> <a href="https://www.datacamp.com/portfolio/tedjoulemongueudehermann"> Discover other python projects that I have carried out on the datacamp platform</a>
+
+#### --> <a href="https://www.datacamp.com/portfolio/tedjoulemongueudehermann"> Discover other python projects that I have carried out on the datacamp platform.</a>
   
 ## II-My data analysis projects with SQL  :
 ### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/projetsql.pdf">Project 1 : Creation and exploration of a real estate database with SQL (PostgreSQL) (all the steps of the project).</a> 
@@ -75,7 +75,7 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture6.JPG"> <br>
 <b>SKILLS</b>: update a data catalog, create tables in a database, Perform sql queries to answer a business problem, create a database schema, Load data into a database.
   
-#### --> <a href="https://www.datacamp.com/portfolio/tedjoulemongueudehermann"> Discover other SQL projects that I have carried out on the datacamp platform</a>
+#### --> <a href="https://www.datacamp.com/portfolio/tedjoulemongueudehermann"> Discover other SQL projects that I have carried out on the datacamp platform.</a>
   
 ## III-My data analysis projects with Power bi  :
 ### <a href="https://app.powerbi.com/view?r=eyJrIjoiNjViNWVjYmItNjA4YS00MGQwLWEyMWItYzljOTY5MThmMTc0IiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 1 : Competitor Sales Analysis in Power BI.</a> 
