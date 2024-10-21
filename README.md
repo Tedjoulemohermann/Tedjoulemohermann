@@ -173,10 +173,10 @@ Being able to identify bee species from images is a task that ultimately would a
 <b>SKILLS</b>: Pycharm, GitHub, Streamlit, Machine learning, Pandas, Numpy.  
 <a href="https://app-projects-yh65ybcauk3xkxvu2djhmw.streamlit.app/">Project 2 : EDA Streamlit Application.</a>  
 <b>Situation</b>: In this project I deployed a  Streamlit application for Exploratory data analysis purpose.  
-<b>SKILLS</b>: Pycharm, GitHub, Streamlit , Pandas, Numpy and visualisation.
+<b>SKILLS</b>: Pycharm, GitHub, Streamlit , Pandas, Numpy and Data visualization.
 <hr /> 
 - How to reach me : tedjoulemongueudehermann@gmail.com  <br>
-- Know about my experiences and connect we me : https://www.linkedin.com/in/hermann-tedjoulemo/  <br>               
+- Know about my experiences and connect we me : https://www.linkedin.com/in/hermann-tedjoulemo/<br>               
 - Contact me : +237 678549530 / +237 699173788   <br>  
 - My DataCamp PortFolio : https://www.datacamp.com/portfolio/tedjoulemongueudehermann
 
