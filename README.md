@@ -1,6 +1,6 @@
 # <div align="center"> Hi !! 👋, I'm Hermann tedjoulemo. Welcome to my Data Science Portfolio</div>
 <b>Position</b> : Maths Teacher / Data analyst / Aspiring Data Scientist  
-<b>Technologies</b> : Python(numpy, pandas, matplotlib, seaborn, plotly,times series, scikit-learn), Deep learning(TENSOFLOW: CNN,RNN), Machine learning (data preprocessing, EDA, Unsupervised learning, Supervised  learning, cross validation, Pipeline), PySpark, Streamlit, SQL, Power bi, Excel, Statistics, Git and Cloud (Microsoft Fabric).  
+<b>Technologies</b> : Python(numpy, pandas, matplotlib, seaborn, plotly,times series, scikit-learn), Deep learning(TENSOFLOW: CNN,RNN), Machine learning (data preprocessing, EDA, Unsupervised learning, Supervised  learning, cross validation, Pipeline), PySpark, Streamlit, SQL, Power bi, Excel, Statistics, Git and Cloud (Microsoft Fabric & Azure).  
 <b>My role</b> : As Data Analyst my role is to analyze data and transform it into highly valuable metrics for a company. I’m responsible for both data collection and data processing as well as guaranteeing data integrity. I’ve developed communication and reporting skills to support decision-making processes.    
 <b>My Certifications</b> :  <a href="https://www.datacamp.com/certificate/DA0029300648706"> Data Analyst Professional </a> || <a href="https://www.datacamp.com/certificate/DAA0016146079118"> Data Analyst Associate </a> || <a href="https://www.datacamp.com/certificate/DSA0018451679784"> Data Scientist Associate </a> || <a href="https://www.datacamp.com/certificate/DEA0014089940056"> Data Engineer Associate </a>   
 --------------------- <a href="https://www.datacamp.com/certificate/SQA0014682993677"> SQL Associate </a> ||<a href="https://www.datacamp.com/certificate/PDA0017556815074"> Python Data Associate </a> || <a href="https://www.datacamp.com/skill-verification/DL0038727449774"> Data Literacy </a> || <a href="https://www.datacamp.com/skill-verification/AIF0012272058551"> AI Fundamentals </a>  
@@ -145,6 +145,7 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/0e09084067f9abf7459c0dbb3c52602efa6f951a">Machine Learning for Business</a>||
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/8701caa287392789e857d3465ce6af05c77b9d41">Introduction to Airflow in Python</a>||
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/5b7fb6db5e5015ad8d565522b5d35d01c95e38ea">Introduction to APIs in Python</a>||
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/cdf6f1a03b7d9ebc42f584c05e0830eddce0fc92">Case Study: Set Up a Book Recommendation App in Azure</a>||
 
 ### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Projet1_Scientist_Hermann.ipynb">Project 1 : Predicting Credit Card Approvals.</a> 
 <b>Situation</b>:
