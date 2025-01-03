@@ -17,7 +17,8 @@
 <a href="https://www.kaggle.com/learn/certification/tedjoulemohermann/intro-to-machine-learning">Machine learning</a>  ||
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/afea8f0a13c97a3909f8b2997a92f75569c7ef3f">Forming Analytical Questions</a> ||
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/2cb49adc73d7e7a03c6deb66c271d4980bfb9fea">Data Communication Concepts</a> ||
-<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/653d56deb843a261003e017196a66ff1b7c1ef36">Data Science for Business</a>   
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/653d56deb843a261003e017196a66ff1b7c1ef36">Data Science for Business</a>  || 
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/6fe9e333cadf15f1532037b8574b2d8c2f87373d">Financial Analysis in Power BI</a>
 
 #### --> <a href="https://www.datacamp.com/portfolio/tedjoulemongueudehermann">See all my work or successes on the Datacamp website : My Datacamp PortFolio</a> 
 
