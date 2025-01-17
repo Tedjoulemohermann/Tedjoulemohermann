@@ -144,10 +144,12 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/1bf17ff3a8748402fe7df3970886a956e834a74b">Big Data Fundamentals with PySpark</a>||
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/a5926f5f795726b01274beb897951e6671f70b72">ChatGPT</a>||
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/0e09084067f9abf7459c0dbb3c52602efa6f951a">Machine Learning for Business</a>||
-<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/8701caa287392789e857d3465ce6af05c77b9d41">Introduction to Airflow in Python</a>||
-<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/133576f01b303dc22ef2e3a61e403b9f84a711ae">Introduction to Docker</a>||
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/5b7fb6db5e5015ad8d565522b5d35d01c95e38ea">Introduction to APIs in Python</a>||
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/cdf6f1a03b7d9ebc42f584c05e0830eddce0fc92">Case Study: Set Up a Book Recommendation App in Azure</a>||
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/8701caa287392789e857d3465ce6af05c77b9d41">Introduction to Airflow in Python</a>||
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/133576f01b303dc22ef2e3a61e403b9f84a711ae">Introduction to Docker</a>||
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/74c49f12f4e1934ceeb1a1c2cdbd3af86f1c0509">Introduction to FastAPI</a>||
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/6fd6655856c5b42632f127ffdb54a871af2c0fff">Foundations of Git</a>||
 
 ### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Projet1_Scientist_Hermann.ipynb">Project 1 : Predicting Credit Card Approvals.</a> 
 <b>Situation</b>:
