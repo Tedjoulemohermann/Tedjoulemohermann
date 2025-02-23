@@ -20,6 +20,12 @@
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/653d56deb843a261003e017196a66ff1b7c1ef36">Data Science for Business</a>  || 
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/6fe9e333cadf15f1532037b8574b2d8c2f87373d">Financial Analysis in Power BI</a>
 
+<b>Microsoft Fabric Cloud : <b> 
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/2337df253249749bd4bb3b2ae2b4a29e026f2bf9">Introduction to Microsoft Fabric</a>  ||
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/84ce71fa72bea8641a8204ce753ee92871aa40a9">Plan and Implement a Data Analytics Environment with Microsoft Fabric</a>  ||
+<a href="https://app.datacamp.com/learn/courses/data-ingestion-and-semantic-models-with-microsoft-fabric">Data Ingestion and Semantic Models with Microsoft Fabric</a>  ||
+<a href="https://app.datacamp.com/learn/courses/transform-and-analyze-data-with-microsoft-fabric">Transform and Analyze Data with Microsoft Fabric</a>  ||
+
 #### --> <a href="https://www.datacamp.com/portfolio/tedjoulemongueudehermann">See all my work or successes on the Datacamp website : My Datacamp PortFolio</a> 
 
 ## I-My data analysis projects with python  
