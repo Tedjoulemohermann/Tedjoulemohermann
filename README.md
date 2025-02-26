@@ -1,5 +1,5 @@
 # <div align="center"> Hi !! 👋, I'm Hermann tedjoulemo. Welcome to my Data Science Portfolio</div>
-<b>Position</b> : Maths Teacher / Data analyst / Aspiring Data Scientist  
+<b>Position</b> : Maths Teacher / Data analyst / Data Enthousiast 
 <b>Technologies</b> : Python(numpy, pandas, matplotlib, seaborn, plotly,times series, scikit-learn), Deep learning(TENSOFLOW: CNN,RNN), Machine learning (data preprocessing, EDA, Unsupervised learning, Supervised  learning, cross validation, Pipeline), PySpark, Streamlit, SQL, Power bi, Excel, Statistics, Git, Docker, Airflow, FastAPI and Cloud (Microsoft Fabric).  
 <b>My role</b> : As Data Analyst my role is to analyze data and transform it into highly valuable metrics for a company. I’m responsible for both data collection and data processing as well as guaranteeing data integrity. I’ve developed communication and reporting skills to support decision-making processes.    
 <b>My Certifications</b> :  <a href="https://www.datacamp.com/certificate/DA0029300648706"> Data Analyst Professional </a> || <a href="https://www.datacamp.com/certificate/DAA0016146079118"> Data Analyst Associate </a> || <a href="https://www.datacamp.com/certificate/DSA0018451679784"> Data Scientist Associate </a> || <a href="https://www.datacamp.com/certificate/DEA0014089940056"> Data Engineer Associate </a>   
