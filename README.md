@@ -11,7 +11,6 @@
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/e0e8582409333b35dcb8124a2f451aa0f1fb84a4">Data Analyst in Power BI</a> ||       
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/93eae3ac3ce29af4163792d1ff882f1a59fc1a59">Data Analyst with Python</a>  ||
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/0bbffaa835435544429293905c12dbd5e8b5892f">Associate Data Analyst in SQL</a>  ||
-<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/2337df253249749bd4bb3b2ae2b4a29e026f2bf9">Introduction to Microsoft Fabric</a>  ||
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/bddb6f5d4419cd21e574f1ffaa455f322acc0cac">Statistics</a>  ||
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/193193a3a5e10e0f5557f83e4b7cf334a1e223bf">Visualization</a>  ||
 <a href="https://www.kaggle.com/learn/certification/tedjoulemohermann/intro-to-machine-learning">Machine learning</a>  ||
