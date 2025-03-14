@@ -13,7 +13,7 @@
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/0bbffaa835435544429293905c12dbd5e8b5892f">Associate Data Analyst in SQL</a>  ||
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/bddb6f5d4419cd21e574f1ffaa455f322acc0cac">Statistics</a>  ||
 <a href="https://www.datacamp.com/statement-of-accomplishment/course/193193a3a5e10e0f5557f83e4b7cf334a1e223bf">Visualization</a>  ||
-<a href="https://www.kaggle.com/learn/certification/tedjoulemohermann/intro-to-machine-learning">Machine learning</a>  ||
+<a href="https://www.kaggle.com/learn/certification/tedjoulemohermann/intermediate-machine-learning">Intermediate Machine Learning</a>|| ||
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/afea8f0a13c97a3909f8b2997a92f75569c7ef3f">Forming Analytical Questions</a> ||
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/2cb49adc73d7e7a03c6deb66c271d4980bfb9fea">Data Communication Concepts</a> ||
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/653d56deb843a261003e017196a66ff1b7c1ef36">Data Science for Business</a>  || 
@@ -142,15 +142,13 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 <b>Link to view some Completed courses certificates : <b>
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/f7b6b703b99d44236ec84856bf30fdecc331642f">Associate Data Scientist in Python</a>   ||
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/track/bed794ae491d48755f848beb2dba1dc177f5686d">Data Scientist in Python</a> ||  
-<a href="https://www.kaggle.com/learn/certification/tedjoulemohermann/intermediate-machine-learning">Intermediate Machine Learning</a>||
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/ea01ecfe79843de433a131727384ae012f983f9f">End-to-End Machine Learning</a>||
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/d9c66f7c9b38489d76739ff44970950c07dee663">NLTK</a>||
 <a href="https://www.kaggle.com/learn/certification/tedjoulemohermann/intro-to-deep-learning">Deep Learning</a>||
 <a href="https://www.kaggle.com/learn/certification/tedjoulemohermann/computer-vision">Computer Vision</a>||
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/1bf17ff3a8748402fe7df3970886a956e834a74b">Big Data Fundamentals with PySpark</a>||
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/a5926f5f795726b01274beb897951e6671f70b72">ChatGPT</a>||
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/0e09084067f9abf7459c0dbb3c52602efa6f951a">Machine Learning for Business</a>||
-<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/5b7fb6db5e5015ad8d565522b5d35d01c95e38ea">Introduction to APIs in Python</a>||
-<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/cdf6f1a03b7d9ebc42f584c05e0830eddce0fc92">Case Study: Set Up a Book Recommendation App in Azure</a>||
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/8701caa287392789e857d3465ce6af05c77b9d41">Introduction to Airflow in Python</a>||
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/133576f01b303dc22ef2e3a61e403b9f84a711ae">Introduction to Docker</a>||
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/74c49f12f4e1934ceeb1a1c2cdbd3af86f1c0509">Introduction to FastAPI</a>||
