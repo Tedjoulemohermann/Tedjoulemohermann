@@ -153,6 +153,7 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/133576f01b303dc22ef2e3a61e403b9f84a711ae">Introduction to Docker</a>||
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/74c49f12f4e1934ceeb1a1c2cdbd3af86f1c0509">Introduction to FastAPI</a>||
 <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/6fd6655856c5b42632f127ffdb54a871af2c0fff">Foundations of Git</a>||
+<a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/20cbe8c8d9ed943a7b59c26b0c72b035d7602f7a">Introduction to dbt</a>||
 
 ### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Projet1_Scientist_Hermann.ipynb">Project 1 : Predicting Credit Card Approvals.</a> 
 <b>Situation</b>:
