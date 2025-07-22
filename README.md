@@ -101,12 +101,12 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 
 ### <a href="https://app.fabric.microsoft.com/view?r=eyJrIjoiYzkxN2E2MGYtNTkyNC00ZTg2LWI3ZDMtZDg3Y2NjMTQxN2QxIiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 3 : BANK DATA CHALLENGE .</a> 
 #### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20analysis.pdf">-View pdf format.</a>|| <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20Analysis%20insights.pdf">-Business Insights.</a>      
-<b>Situation</b>: As a data analyst at one of the most dynamic financial institutions, you're tasked with uncovering critical insights from data on customers, transactions, cards, and merchant categories. Aurora Bank is counting on you to solve pressing challenges and deliver actionable insights.
-Your Mission:
-1-Understand Customer Profiles: Explore customer demographics, financial health, and behaviors to unlock new opportunities for engagement.
-2-Analyze Spending Trends: Uncover patterns and growth opportunities in transaction data.
-3-Identify Risks: Spot potential red flags in rising debt, transaction errors, and fraudulent activity.
-4-Create Impactful Dashboards: Use Power BI to present your insights visually, telling Aurora Bank’s data story.
+<b>Situation</b>: As a data analyst at one of the most dynamic financial institutions, you're tasked with uncovering critical insights from data on customers, transactions, cards, and merchant categories. Aurora Bank is counting on you to solve pressing challenges and deliver actionable insights.  
+Your Mission:  
+1-Understand Customer Profiles: Explore customer demographics, financial health, and behaviors to unlock new opportunities for engagement.  
+2-Analyze Spending Trends: Uncover patterns and growth opportunities in transaction data.  
+3-Identify Risks: Spot potential red flags in rising debt, transaction errors, and fraudulent activity.  
+4-Create Impactful Dashboards: Use Power BI to present your insights visually, telling Aurora Bank’s data story.  
 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/banque4.PNG"><br>
 <b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.
