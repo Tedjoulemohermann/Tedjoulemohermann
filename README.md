@@ -87,17 +87,29 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 ## III-My data analysis projects with Power bi  :
 ### <a href="https://app.powerbi.com/view?r=eyJrIjoiNjViNWVjYmItNjA4YS00MGQwLWEyMWItYzljOTY5MThmMTc0IiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 1 : Competitor Sales Analysis in Power BI.</a> 
 #### <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/ad6b0d9bcff123b4390534d489d68a27b39b15dd">-Datacamp Certificate for this case study.</a>||  <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20analysis.pdf">-View pdf format.</a>|| <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20Analysis%20insights.pdf">-Business Insights.</a>      
-<b>Situation</b>: You are hired as a Data analyst in fictional company called Sintec and The CEO of the Company want that you carry out a sales and market share analysis for a fictitious company called Sintec, focusing not only on the company's performance internally, reflecting on how well the products sell, but also externally analyzing how well they are doing against competing manufacturers. Thus, business users can make informed decisions and actions on their data..
+<b>Situation</b>: You are hired as a Data analyst in fictional company called Sintec and The CEO of the Company want that you carry out a sales and market share analysis for a fictitious company called Sintec, focusing not only on the company's performance internally, reflecting on how well the products sell, but also externally analyzing how well they are doing against competing manufacturers. Thus, business users can make informed decisions and actions on their data.
 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture7.JPG"><br>
 <b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.  
 
 ### <a href="https://app.fabric.microsoft.com/view?r=eyJrIjoiYzE5YTljZjctZWYyZC00NWZkLTk2OGQtZmVhYzI1NThkMjdiIiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 2 : Ecommerce Analysis in Power BI.</a> 
 #### <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/fdee3c48f1151c96fafb20424389e37d9d7dc458">-Datacamp Certificate for this case study.</a>||  <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20analysis.pdf">-View pdf format.</a>|| <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20Analysis%20insights.pdf">-Business Insights.</a>      
-<b>Situation</b>: You are hired as a Data analyst in a fictitious online pet supply company called Whiskique and the CEO want that you investigate and clean the data to find out how the company’s sales are performing and where their customers are located and Finally you  bring it all together using everything Power BI has to offer to create dashboard-style pages to answer questions for the Whiskique executive team. Thus, business users can make informed decisions and actions on their data..
+<b>Situation</b>: You are hired as a Data analyst in a fictitious online pet supply company called Whiskique and the CEO want that you investigate and clean the data to find out how the company’s sales are performing and where their customers are located and Finally you  bring it all together using everything Power BI has to offer to create dashboard-style pages to answer questions for the Whiskique executive team. Thus, business users can make informed decisions and actions on their data.
 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/e_commerce.PNG"><br>
 <b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.  
+
+### <a href="https://app.fabric.microsoft.com/view?r=eyJrIjoiYzkxN2E2MGYtNTkyNC00ZTg2LWI3ZDMtZDg3Y2NjMTQxN2QxIiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 3 : BANK DATA CHALLENGE .</a> 
+#### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20analysis.pdf">-View pdf format.</a>|| <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20Analysis%20insights.pdf">-Business Insights.</a>      
+<b>Situation</b>: As a data analyst at one of the most dynamic financial institutions, you're tasked with uncovering critical insights from data on customers, transactions, cards, and merchant categories. Aurora Bank is counting on you to solve pressing challenges and deliver actionable insights.
+Your Mission:
+1-Understand Customer Profiles: Explore customer demographics, financial health, and behaviors to unlock new opportunities for engagement.
+2-Analyze Spending Trends: Uncover patterns and growth opportunities in transaction data.
+3-Identify Risks: Spot potential red flags in rising debt, transaction errors, and fraudulent activity.
+4-Create Impactful Dashboards: Use Power BI to present your insights visually, telling Aurora Bank’s data story.
+
+<img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/banque4.PNG"><br>
+<b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.
 
 ### <a href="https://app.powerbi.com/view?r=eyJrIjoiNmUzMTA3ZWQtYmU2ZC00OWQ0LWExMzgtYzg2ODc1MWViNjRlIiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 2 : Analyzing Healthcare Data in Power BI.</a> 
 #### <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/5a787c7cb9ba1257eabf657fa3a04cedf50161a9">-Datacamp Certificate for this case study.</a>|| <a href="">-Business Insights.</a>   
