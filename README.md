@@ -92,6 +92,13 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture7.JPG"><br>
 <b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.  
 
+### <a href="https://app.fabric.microsoft.com/view?r=eyJrIjoiYzE5YTljZjctZWYyZC00NWZkLTk2OGQtZmVhYzI1NThkMjdiIiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 2 : Ecommerce Analysis in Power BI.</a> 
+#### <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/fdee3c48f1151c96fafb20424389e37d9d7dc458">-Datacamp Certificate for this case study.</a>||  <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20analysis.pdf">-View pdf format.</a>|| <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20Analysis%20insights.pdf">-Business Insights.</a>      
+<b>Situation</b>: You are hired as a Data analyst in a fictitious online pet supply company called Whiskique and the CEO want that you investigate and clean the data to find out how the company’s sales are performing and where their customers are located and Finally you  bring it all together using everything Power BI has to offer to create dashboard-style pages to answer questions for the Whiskique executive team. Thus, business users can make informed decisions and actions on their data..
+
+<img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/e_commerce.PNG"><br>
+<b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.  
+
 ### <a href="https://app.powerbi.com/view?r=eyJrIjoiNmUzMTA3ZWQtYmU2ZC00OWQ0LWExMzgtYzg2ODc1MWViNjRlIiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 2 : Analyzing Healthcare Data in Power BI.</a> 
 #### <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/5a787c7cb9ba1257eabf657fa3a04cedf50161a9">-Datacamp Certificate for this case study.</a>|| <a href="">-Business Insights.</a>   
 <b>Situation</b>:  You are hired as a Data analyst in fictional consulting company called HealthStat and the Director want that you analyze attributes impacting the patient length of stay (LOS) and cost and work to identify factors contributing to hospital difference. To finish off, you’ll bring it all together in a sophisticated business dashboard to communicate insights for the HealthStat team.
