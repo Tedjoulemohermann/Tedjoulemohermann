@@ -28,6 +28,17 @@
 #### --> <a href="https://www.datacamp.com/portfolio/tedjoulemongueudehermann">See all my work or successes on the Datacamp website : My Datacamp PortFolio</a> 
 
 ## I-My data analysis projects with python  
+
+### <a href="https://medium.com/@tedjoulemongueudehermann/analysis-of-the-best-performing-marketing-channel-and-business-recommendations-e409ebaa69b2">Project 1 : Analysis of the best performing marketing channel and business recommendations. (Article published on Medium) </a> 
+#### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Pratical%20exam%20datacamp%20DA%20Professionnel.ipynb">View my Jupiter Notebook with Python Code </a>   
+<b>Situation</b>:
+You are integrated into a new team of researchers from the Food and Agriculture Organization of the United Nations (FAO), one of the United Nations bodies   whose objective is "to help build a world free from hunger ". Your team is in charge of carrying out a large-scale study on the theme of undernutrition in the world. The problem of hunger is complex and can have multiple causes, which differ from country to country. The preliminary stage of this study will therefore be to establish a "state of the art" of the research already published, but also to carry out a statistical study intended to direct research towards particular countries, and to highlight various causes of hunger. Thus, a handful of data analysts (including you!) have been selected to lead this preliminary step.
+
+<img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture1.PNG">
+
+
+<b>SKILLS</b> : Data structure, numpy, pandas, data cleaning.
+
 ### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet1_analytics_Hermann.ipynb">Project 1 : Public health study with python. </a> 
 
 <b>Situation</b>:
