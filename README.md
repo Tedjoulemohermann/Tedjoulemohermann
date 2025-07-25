@@ -30,16 +30,14 @@
 ## I-My data analysis projects with python  
 
 ### <a href="https://medium.com/@tedjoulemongueudehermann/analysis-of-the-best-performing-marketing-channel-and-business-recommendations-e409ebaa69b2">Project 1 : Analysis of the best performing marketing channel and business recommendations. (Article published on Medium) </a> 
-#### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Pratical%20exam%20datacamp%20DA%20Professionnel.ipynb">View my Jupiter Notebook with Python Code </a>   
+### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Pratical%20exam%20datacamp%20DA%20Professionnel.ipynb">View my Jupiter Notebook with Python Code </a>   
 <b>Situation</b>:
-You are integrated into a new team of researchers from the Food and Agriculture Organization of the United Nations (FAO), one of the United Nations bodies   whose objective is "to help build a world free from hunger ". Your team is in charge of carrying out a large-scale study on the theme of undernutrition in the world. The problem of hunger is complex and can have multiple causes, which differ from country to country. The preliminary stage of this study will therefore be to establish a "state of the art" of the research already published, but also to carry out a statistical study intended to direct research towards particular countries, and to highlight various causes of hunger. Thus, a handful of data analysts (including you!) have been selected to lead this preliminary step.
+Pens and Printers is company that sells everything from pens and notebooks to desk chairs and monitors. Six weeks ago Pens and Printers launched a new line of office stationery. As Launching a new product line is expensive and they need to make sure they are using the best techniques to sell the new product effectively. The best approach may vary for each new product so we need to learn quickly what works and what doesn’t. As a data analysis  your mission is to perform the analysis and give the recommendations to the sales team.
+<img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/im_Projet1.PNG">
 
-<img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture1.PNG">
+<b>SKILLS</b> : data cleaning, data visualization, exploratory data analysis, analytical thinking, statistics, data analysis.
 
-
-<b>SKILLS</b> : Data structure, numpy, pandas, data cleaning.
-
-### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet1_analytics_Hermann.ipynb">Project 1 : Public health study with python. </a> 
+### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet1_analytics_Hermann.ipynb">Project 2 : Public health study with python. </a> 
 
 <b>Situation</b>:
 You are integrated into a new team of researchers from the Food and Agriculture Organization of the United Nations (FAO), one of the United Nations bodies   whose objective is "to help build a world free from hunger ". Your team is in charge of carrying out a large-scale study on the theme of undernutrition in the world. The problem of hunger is complex and can have multiple causes, which differ from country to country. The preliminary stage of this study will therefore be to establish a "state of the art" of the research already published, but also to carry out a statistical study intended to direct research towards particular countries, and to highlight various causes of hunger. Thus, a handful of data analysts (including you!) have been selected to lead this preliminary step.
@@ -49,7 +47,7 @@ You are integrated into a new team of researchers from the Food and Agriculture 
 
 <b>SKILLS</b> : Data structure, numpy, pandas, data cleaning.     
 
-### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet2_analytics_Hermann.ipynb">Project 2 : Optimization of an e-commerce site with python.</a> 
+### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet2_analytics_Hermann.ipynb">Project 3 : Optimization of an e-commerce site with python.</a> 
 
 <b>Situation</b>:
 A company that sells wines online use an erp that is not linked to their online site and under these conditions sales management is really complex. As a data analysis  your mission is to join an export of the ERP containing the references of the products and their selling prices with an export of the online database, analyze the sales of this online store, and manage outliers.
@@ -57,7 +55,7 @@ A company that sells wines online use an erp that is not linked to their online 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture5.PNG"><br>
 <b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn, outliers management.        
 
-### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet3_analytics_Hermann.ipynb">Project 3 : Sales analysis of an online bookstore with python. </a>   
+### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet3_analytics_Hermann.ipynb">Project 4 : Sales analysis of an online bookstore with python. </a>   
 
 <b>Situation</b>:
 You are a Data Analyst for a large bookstore chain, freshly hired for a week. The IT department has given you access to the sales database. It's up to you to familiarize yourself with the data and analyze it. Your manager wants you to make a presentation. Your company, "Rester livres" first developed in a large city in France, with several stores, until you decided to open an online store.
@@ -65,7 +63,7 @@ You are a Data Analyst for a large bookstore chain, freshly hired for a week. Th
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Capture2.PNG">
 <b>SKILLS</b> : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn, time series and statistics (hypothesis testing).      
 
-### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet4_analytics_Hermann.ipynb">Project 4 : Produce market research with Python.</a>   
+### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet4_analytics_Hermann.ipynb">Project 5 : Produce market research with Python.</a>   
 
 <b>Situation</b>: 
 Your agri-food business wants to expand internationally. She specializes in chicken. But for the moment, the field of possibilities is very wide: no particular country or continent has been chosen for the moment. All countries are possible! Your objective will be to help target certain countries in particular, with the aim of deepening the market study afterwards. More particularly, the ideal would be to produce "groups" of countries, more or less large, whose we know the characteristics . Initially, the strategy is rather to export the products in the new target country(ies) rather than to produce locally.
@@ -74,7 +72,7 @@ Your agri-food business wants to expand internationally. She specializes in chic
 
 <b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn, plotly, les tests statistiques and sklearn (Clustering, ACP).    
 
-### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet5_analytics_Hermann.ipynb">Project 5 : Counterfeit banknotes detection using python.</a>   
+### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet5_analytics_Hermann.ipynb">Project 6 : Counterfeit banknotes detection using python.</a>   
 
 <b>Situation</b>:
 Your IT consulting company offers you a new mission at the Ministry of the Interior, in the context of the fight against organized crime, at the central office for the repression of counterfeiting. Your mission: to create a counterfeit  banknotes detection algorithm.
@@ -122,27 +120,27 @@ Your Mission:
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/banque4.PNG"><br>
 <b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.
 
-### <a href="https://app.powerbi.com/view?r=eyJrIjoiNmUzMTA3ZWQtYmU2ZC00OWQ0LWExMzgtYzg2ODc1MWViNjRlIiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 2 : Analyzing Healthcare Data in Power BI.</a> 
+### <a href="https://app.powerbi.com/view?r=eyJrIjoiNmUzMTA3ZWQtYmU2ZC00OWQ0LWExMzgtYzg2ODc1MWViNjRlIiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 4 : Analyzing Healthcare Data in Power BI.</a> 
 #### <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/5a787c7cb9ba1257eabf657fa3a04cedf50161a9">-Datacamp Certificate for this case study.</a>|| <a href="">-Business Insights.</a>   
 <b>Situation</b>:  You are hired as a Data analyst in fictional consulting company called HealthStat and the Director want that you analyze attributes impacting the patient length of stay (LOS) and cost and work to identify factors contributing to hospital difference. To finish off, you’ll bring it all together in a sophisticated business dashboard to communicate insights for the HealthStat team.
 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/im_sante.PNG"><br>
 <b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.<br>
 
-### <a href="https://app.powerbi.com/view?r=eyJrIjoiYTRkYTkzNjYtYjAwOS00ZmZhLTkxMWEtMDYzNmRiMTllNDEwIiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 3 : HR Analytics in Power BI.</a> 
+### <a href="https://app.powerbi.com/view?r=eyJrIjoiYTRkYTkzNjYtYjAwOS00ZmZhLTkxMWEtMDYzNmRiMTllNDEwIiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 5 : HR Analytics in Power BI.</a> 
 #### <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/7d2fded9b2dac574abdd6adaf3601931612ba853">-Datacamp Certificate for this case study.</a>|| <a href="">-Business Insights.</a>      
 <b>Situation</b>: In this Power BI case study, l explore a dataset for a fictitious software company called Atlas Labs. This Project focus on import, analyze and visualize Human Resources data in Power BI. 
 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/im_HR.PNG"><br>
 <b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.<br>
 
-### <a href="https://app.powerbi.com/view?r=eyJrIjoiYjIxM2YzZDktYmJhMi00NGEyLWE0ODQtMGEzMDFiZGIzYTEwIiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 4 : Covid 19 Statistics in Power BI.</a>      
+### <a href="https://app.powerbi.com/view?r=eyJrIjoiYjIxM2YzZDktYmJhMi00NGEyLWE0ODQtMGEzMDFiZGIzYTEwIiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 6 : Covid 19 Statistics in Power BI.</a>      
 <b>Situation</b>: Everyone knows the impact that covid has had on our society. I therefore decided to create a report which gives the statistics of Covid 19 in 2024. I retrieved the data from the Wikipedia site. 
 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/image_covid.PNG"><br>
 <b>SKILLS</b>  : Web Scraping, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.<br>
 
-### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Supply%20Chain%20Analysis.pdf">Project 5 : Supply Chain Analytics in Power BI.</a> 
+### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Supply%20Chain%20Analysis.pdf">Project 7 : Supply Chain Analytics in Power BI.</a> 
 #### <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/74a3d7cd2511f06c16c65be8e4560012a17a0315">-Datacamp Certificate for this case study.</a>|| <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Supply%20Chain%20Analysis.pdf">-View pdf format.</a>|| <a href="">-Business Insights.</a>      
 <b>Situation</b>: You are hired as a supply chain analyst for Tenate Industries and The CEO of the Company want that you create a powerful make versus buy analysis tool using Power BI, develop a quote analysis tool, calculate costs for various production volumes, and integrate internal manufacturing cost data for in-depth analysis. 
 
