@@ -30,7 +30,7 @@
 ## I-My data analysis projects with python  
 
 ### <a href="https://medium.com/@tedjoulemongueudehermann/analysis-of-the-best-performing-marketing-channel-and-business-recommendations-e409ebaa69b2">Project 1 : Analysis of the best performing marketing channel and business recommendations. (Article published on Medium) </a> 
-### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Pratical%20exam%20datacamp%20DA%20Professionnel.ipynb">Project 1 : View my Jupiter Notebook with Python Code </a>   
+### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Pratical%20exam%20datacamp%20DA%20Professionnel.ipynb">Project 1 Code : View my Jupiter Notebook with Python Code </a>   
 <b>Situation</b>:
 Pens and Printers is company that sells everything from pens and notebooks to desk chairs and monitors. Six weeks ago Pens and Printers launched a new line of office stationery. As Launching a new product line is expensive and they need to make sure they are using the best techniques to sell the new product effectively. The best approach may vary for each new product so we need to learn quickly what works and what doesn’t. As a data analysis  your mission is to perform the analysis and give the recommendations to the sales team.
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/im_Projet1.PNG">
