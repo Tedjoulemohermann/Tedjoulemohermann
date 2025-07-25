@@ -30,7 +30,7 @@
 ## I-My data analysis projects with python  
 
 ### <a href="https://medium.com/@tedjoulemongueudehermann/analysis-of-the-best-performing-marketing-channel-and-business-recommendations-e409ebaa69b2">Project 1 : Analysis of the best performing marketing channel and business recommendations. (Article published on Medium) </a> 
-### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Pratical%20exam%20datacamp%20DA%20Professionnel.ipynb">Project 1 Code : View my Jupiter Notebook with Python Code </a>   
+### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Pratical%20exam%20datacamp%20DA%20Professionnel.ipynb">Project 1 ( Code ) : View my Jupiter Notebook with Python Code </a>   
 <b>Situation</b>:
 Pens and Printers is company that sells everything from pens and notebooks to desk chairs and monitors. Six weeks ago Pens and Printers launched a new line of office stationery. As Launching a new product line is expensive and they need to make sure they are using the best techniques to sell the new product effectively. The best approach may vary for each new product so we need to learn quickly what works and what doesn’t. As a data analysis  your mission is to perform the analysis and give the recommendations to the sales team.
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/im_Projet1.PNG">
@@ -84,7 +84,8 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 #### --> <a href="https://www.datacamp.com/portfolio/tedjoulemongueudehermann"> Discover other python projects that I have carried out on the datacamp platform.</a>
   
 ## II-My data analysis projects with SQL  :
-### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/projetsql.pdf">Project 1 : Creation and exploration of a real estate database with SQL (PostgreSQL) (all the steps of the project).</a> 
+### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/projetsql.pdf">Project 1 : Creation and exploration of a real estate database with SQL (PostgreSQL).</a> 
+### <a href="https://medium.com/@tedjoulemongueudehermann/analysis-of-the-best-performing-marketing-channel-and-business-recommendations-e409ebaa69b2">Project 1  ( On a medium article ) : you can also see it in an article published on medium .</a> 
 #### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/query.sql">-Or view only queries to answer business Questions.</a> 
 <b>Situation</b>: you are a data analyst at Laplace Immo, a national network of real estate agencies. The national director wants to create a model to stand out from the competition and better predict the selling price of real estate. He entrusts you with the mission of modifying the database to collect real estate and land transactions in France. You will use this database to analyze the market and help the various agencies to better support their customers.
 
