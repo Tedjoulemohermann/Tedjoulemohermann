@@ -85,7 +85,7 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
   
 ## II-My data analysis projects with SQL  :
 ### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/projetsql.pdf">Project 1 : Creation and exploration of a real estate database with SQL (PostgreSQL).</a> 
-### <a href="https://medium.com/@tedjoulemongueudehermann/analysis-of-the-best-performing-marketing-channel-and-business-recommendations-e409ebaa69b2">Project 1  ( in a article on medium ) : you can also see it in an article published on medium .</a> 
+### <a href="https://medium.com/@tedjoulemongueudehermann/creation-et-utilisation-dune-base-de-données-immobilière-avec-sql-postgresql-6eec09b4add0">Project 1  ( in a article on medium ) : you can also see it in an article published on medium .</a> 
 #### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/query.sql">-Or view only queries to answer business Questions.</a> 
 <b>Situation</b>: you are a data analyst at Laplace Immo, a national network of real estate agencies. The national director wants to create a model to stand out from the competition and better predict the selling price of real estate. He entrusts you with the mission of modifying the database to collect real estate and land transactions in France. You will use this database to analyze the market and help the various agencies to better support their customers.
 
