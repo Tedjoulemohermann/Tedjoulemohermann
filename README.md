@@ -56,6 +56,7 @@ A company that sells wines online use an erp that is not linked to their online 
 <b>SKILLS</b>  : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn, outliers management.        
 
 ### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet3_analytics_Hermann.ipynb">Project 4 : Sales analysis of an online bookstore with python. </a>   
+### <a href="https://medium.com/@tedjoulemongueudehermann/analyse-des-differents-indicateurs-de-vente-et-des-comportements-clients-dun-site-de-e-commerce-3b58abec3e7e">Project 4  ( in a article on medium ) : you can also see it in an article published on medium .</a> 
 
 <b>Situation</b>:
 You are a Data Analyst for a large bookstore chain, freshly hired for a week. The IT department has given you access to the sales database. It's up to you to familiarize yourself with the data and analyze it. Your manager wants you to make a presentation. Your company, "Rester livres" first developed in a large city in France, with several stores, until you decided to open an online store.
@@ -64,6 +65,7 @@ You are a Data Analyst for a large bookstore chain, freshly hired for a week. Th
 <b>SKILLS</b> : Data structure, numpy, pandas, data cleaning, matplotlib, seaborn, time series and statistics (hypothesis testing).      
 
 ### <a href="https://github.com/Tedjoulemohermann/MES-PROJETS-PYTHON/blob/main/Projet4_analytics_Hermann.ipynb">Project 5 : Produce market research with Python.</a>   
+### <a href="https://medium.com/@tedjoulemongueudehermann/analyse-du-marché-avec-pyh-efc9c9e6b38b">Project 5  ( in a article on medium ) : you can also see it in an article published on medium .</a> 
 
 <b>Situation</b>: 
 Your agri-food business wants to expand internationally. She specializes in chicken. But for the moment, the field of possibilities is very wide: no particular country or continent has been chosen for the moment. All countries are possible! Your objective will be to help target certain countries in particular, with the aim of deepening the market study afterwards. More particularly, the ideal would be to produce "groups" of countries, more or less large, whose we know the characteristics . Initially, the strategy is rather to export the products in the new target country(ies) rather than to produce locally.
@@ -96,6 +98,8 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
   
 ## III-My data analysis projects with Power bi  :
 ### <a href="https://app.powerbi.com/view?r=eyJrIjoiNjViNWVjYmItNjA4YS00MGQwLWEyMWItYzljOTY5MThmMTc0IiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 1 : Competitor Sales Analysis in Power BI.</a> 
+### <a href="">Project 1  ( in a article on medium ) : you can also see it in an article published on medium .</a> 
+
 #### <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/ad6b0d9bcff123b4390534d489d68a27b39b15dd">-Datacamp Certificate for this case study.</a>||  <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20analysis.pdf">-View pdf format.</a>|| <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20Analysis%20insights.pdf">-Business Insights.</a>      
 <b>Situation</b>: You are hired as a Data analyst in fictional company called Sintec and The CEO of the Company want that you carry out a sales and market share analysis for a fictitious company called Sintec, focusing not only on the company's performance internally, reflecting on how well the products sell, but also externally analyzing how well they are doing against competing manufacturers. Thus, business users can make informed decisions and actions on their data.
 
@@ -111,6 +115,8 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 <b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.  
 
 ### <a href="https://app.fabric.microsoft.com/view?r=eyJrIjoiYzkxN2E2MGYtNTkyNC00ZTg2LWI3ZDMtZDg3Y2NjMTQxN2QxIiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 3 : BANK DATA CHALLENGE .</a> 
+### <a href="">Project 1  ( in a article on medium ) : you can also see it in an article published on medium.</a>
+
 #### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20analysis.pdf">-View pdf format.</a>|| <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20Analysis%20insights.pdf">-Business Insights.</a>      
 <b>Situation</b>: As a data analyst at one of the most dynamic financial institutions, you're tasked with uncovering critical insights from data on customers, transactions, cards, and merchant categories. Aurora Bank is counting on you to solve pressing challenges and deliver actionable insights.  
 Your Mission:  
