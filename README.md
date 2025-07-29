@@ -98,7 +98,7 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
   
 ## III-My data analysis projects with Power bi  :
 ### <a href="https://app.powerbi.com/view?r=eyJrIjoiNjViNWVjYmItNjA4YS00MGQwLWEyMWItYzljOTY5MThmMTc0IiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 1 : Competitor Sales Analysis in Power BI.</a> 
-### <a href="">Project 1  ( in a article on medium ) : you can also see it in an article published on medium .</a> 
+### <a href="https://medium.com/@tedjoulemongueudehermann/competitor-sales-analysis-in-power-bi-e92026e31de7">Project 1  ( in a article on medium ) : you can also see it in an article published on medium .</a> 
 
 #### <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/ad6b0d9bcff123b4390534d489d68a27b39b15dd">-Datacamp Certificate for this case study.</a>||  <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20analysis.pdf">-View pdf format.</a>|| <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20Analysis%20insights.pdf">-Business Insights.</a>      
 <b>Situation</b>: You are hired as a Data analyst in fictional company called Sintec and The CEO of the Company want that you carry out a sales and market share analysis for a fictitious company called Sintec, focusing not only on the company's performance internally, reflecting on how well the products sell, but also externally analyzing how well they are doing against competing manufacturers. Thus, business users can make informed decisions and actions on their data.
@@ -165,7 +165,7 @@ Your Mission:
 <b>SKILLS</b>  : Data Preparation, Pivotables, Data visualization, Dashboard.<br>
 
 ### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/NRM_EXCEL.pdf">Project 2 : Net Revenue Management in Excel .</a> 
-### <a href="">Project 2  ( in a article on medium ) : you can also see it in an article published on medium .</a>
+### <a href="https://medium.com/@tedjoulemongueudehermann/competitor-sales-analysis-in-po-16bfef691579">Project 2  ( in a article on medium ) : you can also see it in an article published on medium .</a>
 
 #### <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/0eca70889b5613f48559f3b2f40958a49f315f4b">-Datacamp Certificate for this case study.</a>
 
