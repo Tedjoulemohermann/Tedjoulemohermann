@@ -115,7 +115,7 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 <b>SKILLS</b>  : Data Connection, Data preparation and data modeling, Data visualization, Dax fonction, Report design and power bi service.  
 
 ### <a href="https://app.fabric.microsoft.com/view?r=eyJrIjoiYzkxN2E2MGYtNTkyNC00ZTg2LWI3ZDMtZDg3Y2NjMTQxN2QxIiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 3 : BANK DATA CHALLENGE .</a> 
-### <a href="">Project 3  ( in a article on medium ) : you can also see it in an article published on medium.</a>
+### <a href="https://medium.com/@tedjoulemongueudehermann/bank-datachallenge-86c0f7d49767">Project 3  ( in a article on medium ) : you can also see it in an article published on medium.</a>
 
 #### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20analysis.pdf">-View pdf format.</a>|| <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20Analysis%20insights.pdf">-Business Insights.</a>      
 <b>Situation</b>: As a data analyst at one of the most dynamic financial institutions, you're tasked with uncovering critical insights from data on customers, transactions, cards, and merchant categories. Aurora Bank is counting on you to solve pressing challenges and deliver actionable insights.  
