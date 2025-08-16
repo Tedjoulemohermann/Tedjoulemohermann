@@ -108,7 +108,7 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 
 ### <a href="https://app.fabric.microsoft.com/view?r=eyJrIjoiYzE5YTljZjctZWYyZC00NWZkLTk2OGQtZmVhYzI1NThkMjdiIiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 2 : Ecommerce Analysis in Power BI.</a> 
 ### <a href="https://medium.com/@tedjoulemongueudehermann/analyse-des-performances-commerciales-et-de-limpact-des-livraisons-de-grande-quantites-sur-les-4f47c6ac2f3d">Project 2  ( in a article on medium ) : you can also see it in an article published on medium .</a>
-#### <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/fdee3c48f1151c96fafb20424389e37d9d7dc458">-Datacamp Certificate for this case study.</a>||  <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20analysis.pdf">-View pdf format.</a>|| <a href="">-Business Insights.</a>      
+#### <a href="https://www.datacamp.com/completed/statement-of-accomplishment/course/fdee3c48f1151c96fafb20424389e37d9d7dc458">-Datacamp Certificate for this case study.</a>||  <a href="">-View pdf format.</a>|| <a href="">-Business Insights.</a>      
 <b>Situation</b>: You are hired as a Data analyst in a fictitious online pet supply company called Whiskique and the CEO want that you investigate and clean the data to find out how the company’s sales are performing and where their customers are located and Finally you  bring it all together using everything Power BI has to offer to create dashboard-style pages to answer questions for the Whiskique executive team. Thus, business users can make informed decisions and actions on their data.
 
 <img src="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/e_commerce.PNG"><br>
@@ -117,7 +117,7 @@ Your IT consulting company offers you a new mission at the Ministry of the Inter
 ### <a href="https://app.fabric.microsoft.com/view?r=eyJrIjoiYzkxN2E2MGYtNTkyNC00ZTg2LWI3ZDMtZDg3Y2NjMTQxN2QxIiwidCI6ImRjMDI1MTIxLTk3NjYtNGMyMS04M2Y0LTM0Mjc1MjJhNTUwOSJ9">Project 3 : BANK DATA CHALLENGE .</a> 
 ### <a href="https://medium.com/@tedjoulemongueudehermann/bank-datachallenge-86c0f7d49767">Project 3  ( in a article on medium ) : you can also see it in an article published on medium.</a>
 
-#### <a href="https://github.com/Tedjoulemohermann/Tedjoulemohermann/blob/main/Competitor%20analysis.pdf">-View pdf format.</a>|| <a href="">-Business Insights.</a>      
+#### <a href="">-View pdf format.</a>|| <a href="">-Business Insights.</a>      
 <b>Situation</b>: As a data analyst at one of the most dynamic financial institutions, you're tasked with uncovering critical insights from data on customers, transactions, cards, and merchant categories. Aurora Bank is counting on you to solve pressing challenges and deliver actionable insights.  
 Your Mission:  
 1-Understand Customer Profiles: Explore customer demographics, financial health, and behaviors to unlock new opportunities for engagement.  
