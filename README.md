@@ -221,8 +221,8 @@ Being able to identify bee species from images is a task that ultimately would a
 <a href="https://app-projects-yh65ybcauk3xkxvu2djhmw.streamlit.app/">Project 2 : EDA Streamlit Application.</a>  
 <b>Situation</b>: In this project I deployed a  Streamlit application for Exploratory data analysis purpose.  
 <b>SKILLS</b>: Pycharm, GitHub, Streamlit , Pandas, Numpy and Data visualization.  
-<a href="https://blooddonation.streamlit.app/">Project 3 : Blood Donation Campaign in Cameroon.</a>  
-<b>Situation</b>: In this project I deployed a  Streamlit application for Analyse Blood Campaign data in Cameroon .  
+  <a href="https://tableau-de-bord-dune-banque.streamlit.app/">Project 3 : Bank Data Dashboard.</a>  
+<b>Situation</b>: In this project I deployed a  Streamlit application for Analyse Bank data and a Scoring model .  
 <b>SKILLS</b>: Pycharm, GitHub, Streamlit , Pandas, Numpy, Data visualization, Machine learning and FastApi, .
 <hr /> 
 - How to reach me : tedjoulemongueudehermann@gmail.com  <br>
