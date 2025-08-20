@@ -1,5 +1,5 @@
 # <div align="center"> Hi !! 👋, I'm Hermann tedjoulemo. Welcome to my Data Science Portfolio</div>
-<b>Position</b> : Data analyst / Data Enthusiast   
+<b>Position</b> : Data analyst BI / Data Enthusiast   
 <b>Technologies</b> : Excel, Power BI, SQL, Python, Pyspark, Streamlit, Git, Airflow, FastAPI and Cloud (Microsoft Fabric).  
 <b>My role</b> : As Data Analyst my role is to analyze data and transform it into highly valuable metrics for a company. I’m responsible for both data collection and data processing as well as guaranteeing data integrity. I’ve developed communication and reporting skills to support decision-making processes.    
 <b>My Certifications</b> :  <a href="https://www.datacamp.com/certificate/DA0029300648706"> Data Analyst Professional </a> || <a href="https://www.datacamp.com/certificate/DAA0016146079118"> Data Analyst Associate </a> || <a href="https://www.datacamp.com/certificate/DSA0018451679784"> Data Scientist Associate </a> || <a href="https://www.datacamp.com/certificate/DEA0014089940056"> Data Engineer Associate </a>   
