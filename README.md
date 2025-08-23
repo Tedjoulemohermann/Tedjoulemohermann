@@ -226,7 +226,7 @@ Being able to identify bee species from images is a task that ultimately would a
 <b>SKILLS</b>: Pycharm, GitHub, Streamlit , Pandas, Numpy, Data visualization, Machine learning and FastApi, .
 <hr /> 
 - How to reach me : tedjoulemongueudehermann@gmail.com  <br>
-- Know about my experiences and connect we me : https://www.linkedin.com/in/hermann-tedjoulemo/<br>               
+- Know about my experiences and connect we me : https://www.linkedin.com/in/hermann-tedjoulemo/<br>     
 - My DataCamp PortFolio : https://www.datacamp.com/portfolio/tedjoulemongueudehermann
-
+- My Medium Profile : https://medium.com/@tedjoulemongueudehermann
 
